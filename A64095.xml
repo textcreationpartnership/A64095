@@ -1,0 +1,1263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carigueya, seu marsupiale Americanum, or, The anatomy of an opossum  dissected at Gresham College by Edward Tyson ...</title>
+            <author>Tyson, Edward, 1650-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 145 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64095</idno>
+            <idno type="STC">Wing T3597</idno>
+            <idno type="STC">ESTC R6109</idno>
+            <idno type="EEBO-CITATION">12636732</idno>
+            <idno type="OCLC">ocm 12636732</idno>
+            <idno type="VID">64883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 337:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Carigueya, seu marsupiale Americanum, or, The anatomy of an opossum  dissected at Gresham College by Edward Tyson ...</title>
+                  <author>Tyson, Edward, 1650-1708.</author>
+               </titleStmt>
+               <extent>[2], 60 p., 1 folded leaf of plates : ill.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Smith and Benj. Walford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 60.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Opossums --  Anatomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64883:1" rendition="simple:additions"/>
+            <p>
+               <hi>Carigueya,</hi> ſeu <hi>Marſupiale Americanum:</hi> OR, THE ANATOMY OF AN OPOSSUM, Diſſected at <hi>Greſham-College.</hi>
+            </p>
+            <p>By EDWARD TYSON, M. D. Fellow of the <hi>College</hi> of <hi>Phyſicians,</hi> and of the <hi>Royal Society,</hi> READER of <hi>Anatomy</hi> at <hi>Chirurgions-Hall,</hi> and PHYSICIAN to <hi>Bethlem</hi> Hoſpital.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Sam. Smith,</hi> and <hi>Benj. Walford,</hi> Printers to the <hi>Royal Society,</hi> at the <hi>Princes Arms</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCXCVIII.</p>
+         </div>
+         <div type="illustrations">
+            <pb facs="tcp:64883:2"/>
+            <p>
+               <figure>
+                  <figDesc>diagrams of dissected opossum</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:64883:3"/>
+            <p>
+               <figure>
+                  <figDesc>diagrams of dissected opossum</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64883:4"/>
+            <pb n="1" facs="tcp:64883:4"/>
+            <head>
+               <hi>Carigueya,</hi> ſeu <hi>Marſupiale Americanum:</hi> OR, THE ANATOMY OF AN OPOSSUM.</head>
+            <p>THIS <hi>Animal</hi> was brought from <hi>Virginia,</hi> and preſented to the <hi>Royal Society,</hi> by <hi>Will. Bird,</hi> 
+               <abbr>Eſq</abbr> and kept alive in their Re<g ref="char:EOLhyphen"/>poſitory for ſome time. But of late lan<g ref="char:EOLhyphen"/>guiſhing and falling from its Meat, it died. The Cauſe of its Death we ſhall ſee, when we come to the Diſſection: But firſt of all, we ſhall take notice of the ſeveral Names given it by different Authors: Then ſhall give a more exact Deſcription and Figure of its outward Shape: And laſt of all, we ſhall obſerve the Structure and Formation of the Parts within; eſpecially where dif<g ref="char:EOLhyphen"/>ferent from other Animals.</p>
+            <pb n="2" facs="tcp:64883:5"/>
+            <p>And as to the <hi>Names,</hi> I find that <hi>Georg. Margravi<g ref="char:EOLhyphen"/>us</hi>
+               <note n="(a)" place="bottom">Hiſt. Nat. Braſil. <hi>l.</hi> 6. <hi>cap.</hi> 2. <hi>p.</hi> 222.</note>, and ſo likewiſe <hi>Gul. Piſo</hi>
+               <note n="(b)" place="bottom">Hiſt. Nat. &amp; Med. <hi>l.</hi> 5. <hi>c.</hi> 24. <hi>p.</hi> 323.</note> tells us, That 'tis called in <hi>Braſile,</hi> and on the Sea Coaſts <hi>Carigueya;</hi> by ſome, and in the In-land Contries, <hi>Impatiima.</hi> In <hi>Peri<g ref="char:EOLhyphen"/>guay, Tai-ibi. Franc. Hernandez</hi>
+               <note n="(c)" place="bottom">Hiſt. Mexican. <hi>l.</hi> 9. <hi>c.</hi> 18. <hi>p.</hi> 330.</note> ſaith, 'Tis called, <hi>Tlaquatzin,</hi> by the Indians. <hi>Antonius Herera</hi> calls it <hi>Taquatzin;</hi> and the Modern Spaniards, by a Corrupti<g ref="char:EOLhyphen"/>on, <hi>Tlaquacum;</hi> as <hi>Joh. Euſeb. Nierembergius</hi>
+               <note n="(d)" place="bottom">Hiſt. Nat. <hi>lib.</hi> 9. <hi>c.</hi> 4. <hi>p.</hi> 156.</note> in<g ref="char:EOLhyphen"/>forms us. <hi>Joh. Pet. Maffeius</hi>
+               <note n="(e)" place="bottom">Hiſt. Indic. <hi>l.</hi> 2. <hi>p. m.</hi> 46.</note>, and <hi>Caſpar Barlaeus</hi>
+               <note n="(f)" place="bottom">Res Geſtae ſub Mauritio in Braſilia <hi>p. m.</hi> 222.</note> calls it, <hi>Cerigo. Joh. Lerius</hi>
+               <note n="(g)" place="bottom">Hiſt. Navigat. in Braſiliam, <hi>c.</hi> 9. <hi>p. m.</hi> 180.</note> calls it <hi>Sarigoy</hi> or <hi>Carigoy. Joh. Stadenius</hi>
+               <note n="(h)" place="bottom">Hiſt. Braſilianae. <hi>Cap.</hi> 32. <hi>p. m.</hi> 129.</note> or <hi>Stadius,</hi> as he is Printed in <hi>Theodore de Bry,</hi> writes it, <hi>Servoy</hi> or <hi>Serwoy.</hi> By <hi>Cardan</hi>
+               <note n="(i)" place="bottom">De Subtilitat. <hi>l. x. Oper. Tom.</hi> 3. <hi>p.</hi> 531.</note>, and <hi>Oviedo</hi>
+               <note n="(k)" place="bottom">In Summario Indiae Occident.</note> 'tis called <hi>Chiurca</hi> &amp; alibi <hi>Chucia.</hi> In the <hi>Molucca</hi> Iſlands 'tis called, <hi>Zurca.</hi> In <hi>Virginia,</hi> and generally by the Engliſh, 'tis called <hi>Opoſſum,</hi> as by <hi>Ralp Hamor</hi>
+               <note n="(l)" place="bottom">Deſcript. Virginiae</note>, and others. <hi>Joh. de Laet</hi>
+               <note n="(m)" place="bottom">Deſcriptio Indiae Occident. <hi>l.</hi> 3. <hi>c.</hi> 17. <hi>p.</hi> 82.</note>, and Captain <hi>John Smith</hi>
+               <note n="(n)" place="bottom">
+                  <hi>Voyages and Diſcove<g ref="char:EOLhyphen"/>ries in</hi> Virginia. <hi>p.</hi> 27.</note> writes it, <hi>Opaſ<g ref="char:EOLhyphen"/>ſum.</hi> Mr. <hi>Roy</hi>
+               <note n="(o)" place="bottom">Synopſis Animal. <hi>p.</hi> 182.</note> calls it, the <hi>Poſſum,</hi> as do alſo our common Seamen. I do not find any <hi>Latin</hi> Name given to it by any Body, but by <hi>Geſner</hi>
+               <note n="(p)" place="bottom">Hiſt. Anim. de Quadruped. <hi>p.</hi> 870.</note>, who, that it might not be <hi>Anonymous,</hi> forms that of <hi>Semi Vulpa, quaſi Simia Vulpina;</hi> or, as <hi>Aldrovandus</hi>
+               <note n="(q)" place="bottom">De Quadruped. Digit. Viviparis, <hi>l.</hi> 2. <hi>c.</hi> 4. <hi>p.</hi> 223.</note> calls it, <hi>Vulpi-Simia,</hi> as if this Animal was of a middle Nature, between a <hi>Fox</hi> and <hi>Ape:</hi> And, anſwerably, in <hi>Greek</hi> it
+<note place="bottom">N. B. <hi>In my Quotations of any Author, if what occurs be in the ſame Book and Place, I always refer to the firſt Letter 'tis quoted by; if otherwiſe, 'tis diſtinguiſhed by different Letters, which I chooſe, to avoid needleſs Multiplicati<g ref="char:EOLhyphen"/>on of References.</hi>
+               </note>
+               <pb n="3" facs="tcp:64883:5"/>might be called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; though he tells us, That the <hi>Alopecopithecus</hi> and <hi>Chiurea,</hi> by <hi>Cardan</hi> and <hi>Scaliger,</hi> are taken to be different Ani<g ref="char:EOLhyphen"/>mals.</p>
+            <p>Upon the whole, ſince it is an Animal <hi>ſui Generis,</hi> and in ſeveral Parts having a great Reſemblance to thoſe of different <hi>Species;</hi> I think, a <hi>Denomination</hi> might be beſt given to it, from that Particular, wherein 'tis moſt diſtinguiſhed from all others; which is that remarkable <hi>Pouch</hi> or <hi>Marſupium</hi> it has in the <hi>Belly;</hi> into which, up<g ref="char:EOLhyphen"/>on any Occaſion of Danger, it can receive its Young. Not that it is a <hi>
+                  <g ref="char:V">Ʋ</g>terus,</hi> or the Young Ones are bred there (this Miſtake we ſhall clear up, when we come to the Diſſection): But Nature has only formed this Part for that Particular <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of receiving or emitting, at Plea<g ref="char:EOLhyphen"/>ſure, the Young Brood, till ſuch time as they are able to provide better for themſelves.</p>
+            <p>This Conſideration (it being ſo diſtinguiſhing a Cha<g ref="char:EOLhyphen"/>racter of this Animal from all others, that as yet we know of,) makes me moſt inclinable to find out ſome Name, that might be moſt expreſſive thereof; nor can I think of, at preſent, a better, than to call it, <hi>Marſupiale Ame<g ref="char:EOLhyphen"/>ricanum.</hi> If upon Obſervation (as very likely) there ſhould be found different Species of theſe <hi>Animalia Cru<g ref="char:EOLhyphen"/>menata,</hi> as <hi>Jul. Caeſ. Scaliger</hi>
+               <note n="(r)" place="bottom">De Subtilitate ad Cardan. <hi>Exerc.</hi> 206. <hi>p. m.</hi> 277.</note> calls them, by an Epi<g ref="char:EOLhyphen"/>thſte, they may be ſubdivided.</p>
+            <p>Biſhop <hi>Wilkins</hi>
+               <note n="(s)" place="bottom">
+                  <hi>Real Character, Part</hi> 2. <hi>c.</hi> 5. <hi>p.</hi> 159.</note>, and Mr. <hi>Ray (o)</hi> too, in his <hi>Synopſis Animalium,</hi> places this Animal amongſt the <hi>Dog-Kind. Guil. Piſo (b)</hi> ſaith 'tis,
+<q>
+                  <hi>Beſtiola majorum Glirium Mon<g ref="char:EOLhyphen"/>tanorum numero aſcribenda:</hi> And <hi>Cardan</hi> ſaith <hi>(i), Mittit &amp; India Occidentalis Chiurcham è Muſtelino Genere.</hi>
+               </q> I am apt to think it may be reduced to the
+<pb n="4" facs="tcp:64883:6"/>
+               <hi>Vermine Kind;</hi> but that may be better determinated, had one an Opportunity of obſerving the <hi>Male;</hi> for our Subject was a <hi>Female,</hi> which I am now to give a De<g ref="char:EOLhyphen"/>ſcription of.</p>
+            <p>And for the better doing this, I cauſed a <hi>Figure</hi>
+               <note n="†" place="margin">
+                  <hi>Fig.</hi> 1. <hi>Tab.</hi> 1.</note> of it to be made, exact from the Life: for thoſe <hi>Figures</hi> that hitherto have been given of it, are very faulty; as will appear by comparing this with that of the <hi>Caragueya</hi> of <hi>Margrave (a),</hi> which is copied by <hi>Piſo (b)</hi> and <hi>John<g ref="char:EOLhyphen"/>ſon</hi>
+               <note n="(t)" place="bottom">Hiſt. Animal Quadruped. <hi>Tab.</hi> 63.</note>. The <hi>Figure</hi> of <hi>Euſeb. Nierembergius (d)</hi> indeed, ſeems to be taken from the Life, and more agreeable; but not in all Particulars exact. That in <hi>Geſner (p)</hi> is altogether Monſtrous; but withal, he tells us whence he had it; "<hi>Imaginem addidi; qualis in Tabu<g ref="char:EOLhyphen"/>lis Geographicis depingi ſolet;</hi> and miſtruſts it himſelf, where he ſaith, <hi>&amp; Icon ſi quid ei credendum.</hi> However, <hi>Johnſton</hi> (who never fails to copy an Error, and never mends one) adds this Figure too, <hi>vid. ejuſd. Tab.</hi> 58. though he owns that he had ſeen that of <hi>Nierembergius.</hi> The Figure of <hi>
+                  <g ref="char:V">Ʋ</g>lyſſ. Aldrovandus (q)</hi> is much the ſame with that of <hi>Geſner</hi>'s.</p>
+            <p>Should one here indulge the Imagination ſo far, as in the Deſcription of this Animal, to borrow its ſeveral <hi>Parts</hi> from thoſe of different <hi>Species;</hi> one ſhould rather ſeem to form a Chimerical <hi>Monſter,</hi> than to deſcribe a real <hi>Animal.</hi> Yet we find the beſt <hi>Zoographers</hi> thus to pleaſe themſelves in their Accounts of it.</p>
+            <p>
+               <hi>Animal eſt Tlaquatzin Canis parvi formâ &amp; magnitudi<g ref="char:EOLhyphen"/>ne,</hi> ſaith <hi>Hermandez (c). Animal eſt Catuli vel Medio<g ref="char:EOLhyphen"/>cris felis magnitudine,</hi> as <hi>Margrave (a). Pars anterior Vulpem, poſterior verò Simiam repreſentabat, niſi quòd Pedes effingit Humanos, Aures autem habet Noctuae,</hi> ſaith
+<pb n="5" facs="tcp:64883:6"/>
+               <hi>Vincentius Pinzonus
+<note n="(u)" place="bottom">Navigatio inter Novi Orbis Scriptr. <hi>p.</hi> 86.</note>. Monſtroſum illud Animal Vul<g ref="char:EOLhyphen"/>pino Roſtro, Cercopitheci Caudâ, Veſpertilionis Auribus, Manibus Humanis, Pedibus Simiam aemulans,</hi> ſaith <hi>Peter Martyr
+<note n="(w)" place="bottom">Ocean <hi>Decad.</hi> 1. <hi>lib.</hi> 9.</note>. Corpore verò ac Pedibus Melis,</hi> the <hi>Mexi<g ref="char:EOLhyphen"/>can Hiſtory (c). Videtur autem hoc Animal interme<g ref="char:EOLhyphen"/>dium eſſe inter Leporem ac Vulpem, ſed alterius generis ab utroque ob Crumenan,</hi> ſaith <hi>Gardan
+<note n="(x)" place="bottom">De Rerum Varietate, <hi>Cap.</hi> 33. <hi>p. m.</hi> 101.</note>. Eſt Viverrae facie ac magnitudine, Capite Vulpino,</hi> ſaith <hi>Jul. Caeſ. Sca<g ref="char:EOLhyphen"/>liger (r). Opaſſum Capite Porcellum, Cauda Glirem refe<g ref="char:EOLhyphen"/>rens, Mole modicum Felem,</hi> ſaith <hi>Joh. de Laet (m). Bar<g ref="char:EOLhyphen"/>bam Felinam habet,</hi> ſaith <hi>Piſo (b). Cauda Colubrinae ſimilis, Hernandez (c).</hi> I ſhall omit more Inſtances which might be given, Nor is it that I do diſapprove of theſe Alluſions upon the whole; but when they call it <hi>Animal Monſtroſum,</hi> as <hi>P. Martyr (w);</hi> or <hi>Prodigioſum,</hi> as <hi>Vinc. Pinzonus (u),</hi> and <hi>Hieron. Benzon.</hi>
+               <note n="(y)" place="bottom">Hieron. Benzon. Hiſt. Novi Orbis, <hi>Lib.</hi> 2. <hi>p.</hi> 52. apud Theodor. de Bry Americ. <hi>pars quinta.</hi>
+               </note>; I think 'tis only our <hi>Ignorance</hi> makes the <hi>Admiration,</hi> and that <hi>Admira<g ref="char:EOLhyphen"/>ration</hi> forms the <hi>Monſter;</hi> for <hi>Nature,</hi> in her regular Actings, produces no ſuch <hi>Species</hi> of Animals.</p>
+            <p>In our Deſcription of this <hi>Animal,</hi> we will firſt give the Dimenſions of this we diſſected; and then proceed to other Particulars. As from the Extremity of the <hi>Noſe,</hi> to the Tip of the <hi>Tail,</hi> it meaſured One and Thir<g ref="char:EOLhyphen"/>ty Inches: The Length of the <hi>Head</hi> was Six Inches: The <hi>Tail</hi> was One Foot long: The <hi>Neck</hi> and the <hi>Body</hi> was the Complement of the Firſt Dimenſion: The Girth of the <hi>Body,</hi> now dead, was Fifteen Inches and an Half; when alive and well, it ſeemed much thicker: The <hi>Fore-Legs</hi> were Six Inches long; the <hi>Hinder-Legs</hi> but Four Inches and an Half: The Girth of the <hi>Tail,</hi> near the Root, was Three Inches; near the Tip but One Inch:
+<pb n="6" facs="tcp:64883:7"/>The <hi>Head,</hi> about the Ears was largeſt; meaſuring on the <hi>Forehead,</hi> from one Ear to the other, Three Inches; thence gradually tapering towards the Noſe, and more reſembling that of a <hi>Pig</hi> than a <hi>Fox:</hi> The Aperture of the <hi>Eyelids</hi> were not Horizontal, but lying in a ſtrait Line from the Ears to the Noſe, and not large: The <hi>Ears</hi> were about One Inch and an Half long; not ſharp, but of a roundiſh Figure: The <hi>Rictus</hi> of h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Mouth,</hi> from the Corner on One Side, to the End of the Noſe, mea<g ref="char:EOLhyphen"/>ſured Two Inches and an Half.</p>
+            <p>Theſe Meaſures, in ſeveral Particulars, I find different from thoſe in other Authors: But I cannot but think they have made ſeveral Miſtakes, for want of a more exact Enquiry and Obſervation. Thus <hi>Margrave (a),</hi> and, from him, others makes the <hi>Fore-Legs</hi> ſhorter than the <hi>Hinder; "Crura duo anteriora</hi> (ſaith he) <hi>breviora, nimirùm quodlibet tres digitos longum; Poſteriora paulò plus quatuor:</hi> In our Subject I find the contrary; tho', as we ſhall obſerve in the <hi>Sceleton,</hi> the Bones of the <hi>Fore-Legs</hi> are ſhorter than thoſe of the <hi>Hinder.</hi> He adds,
+<q>
+                  <hi>Pedes Anteriores quinque digitis Inſtar manûs conſtant, unguibus albis inſtar Avium, Curvis: Poſteriores longio<g ref="char:EOLhyphen"/>res, uti in Cercopithecis eſſe ſolent, item quinque digitis ut manus.</hi>
+               </q> But here we find the <hi>Fore-Feet</hi> to have Five long Claws or <hi>Fingers,</hi> equally ranging with one another; and a hooked <hi>Nail</hi> at the End of each Finger. But the <hi>Hinder-Legs</hi> are far differently formed; for here we ob<g ref="char:EOLhyphen"/>ſerve but <hi>Four Fingers</hi> armed with hooked <hi>Nails,</hi> and a perfect <hi>Thumb,</hi> ſet off at a Diſtance from the Range of the other Fingers; and as in a <hi>Humane</hi> Body, this <hi>Thumb</hi> was ſhorter than the other Fingers; and had not a hook<g ref="char:EOLhyphen"/>ed or curved prominent Nail, but a tender <hi>flat</hi> one, as in our
+<note n="‖" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 1.</note> Figure is repreſented.</p>
+            <pb n="7" facs="tcp:64883:7"/>
+            <p>This Contrivance of the Feet and the Nails, and the Fore-Feet being longer than the Hinder, and the Hinder being formed with a <hi>Thumb</hi> like a humane Hand; ſeems very advantageous to this Animal, as to its way of living, and getting its Food: For what it ſeems to be moſt fond of, is, Poultry and Birds; not but that it eats other things too. But for the Preying upon theſe, 'tis very nimble in climbing up Trees;
+<q>
+                  <hi>Scandit Arbores incredi<g ref="char:EOLhyphen"/>bili pernicitate,</hi>
+               </q> ſaith the <hi>Mexican Hiſtory (c);</hi> and the ſame is confirmed by all. Now having the <hi>Hinder-Feet</hi> formed like an <hi>Hand,</hi> and the Four Fingers Armed with hooked Nails, it may take the better Hold in raiſing its Body up a Tree; and the <hi>Fore-Legs</hi> being longer, will make the larger Stretch in, Climbing up; the <hi>Nails</hi> being hooked and ſtrong, will take the greater Hold. Beſides, as we ſhall obſerve, having the Advantage of twiſting its <hi>Tail</hi> about any Stick or Bough it lights upon, and being able, by that Means, to fuſpend the whole Weight of its Body; when it has a mind to raiſe it ſelf to the Bough its <hi>Tail</hi> is twiſted about, theſe Hinder-Legs, being formed like <hi>Hands,</hi> will the better take hold of it, than if they had no <hi>Thumbs.</hi>
+            </p>
+            <p>Theſe Fingers, <hi>Toes,</hi> or Claws were naked, without Hair; the Skin looking of a Reddiſh Colour here. They were about an Inch long, and the <hi>Thumbs</hi> almoſt as long, but ſet lower, as I ſaid. The <hi>Palmes</hi> of all, eſpecially if dilated, as it does in Climbing, were large; but ſo con<g ref="char:EOLhyphen"/>trived, as to be able to be contracted, as in walking; but that they might here be better ſecured from Injury, I find at the ſetting on of each <hi>Toe,</hi> in the Palmes, a Protuberant, Fleſhy, and almoſt Cartilaginous Body.</p>
+            <p>In feeding its ſelf, it makes uſe of the Fore-Feet in bringing the Food to his Mouth, as do the <hi>Monkey</hi> and <hi>Squirril-Kind.</hi>
+            </p>
+            <pb n="8" facs="tcp:64883:8" rendition="simple:additions"/>
+            <p>As the <hi>Toes,</hi> ſo likewiſe the <hi>Tail</hi> was without Hair, only for a little way near the ſetting on; and was moſt remarkable; being <hi>tapering</hi> from the Root towards the Tip, and covered with a regular Order of ſmall Whitiſh <hi>Scales;</hi> which, for the moſt part, were all oblongiſh <hi>Hexigons, Perſimilis Colubrinae,</hi> ſaith the <hi>Mexican Hi<g ref="char:EOLhyphen"/>ſtory (c):</hi> But with this difference, that in a <hi>Snake's Skin</hi> part of one <hi>Scale</hi> juts over another; but here each <hi>Scale</hi> appears wholly in view, and between each one may obſerve a little of the <hi>Skin</hi> or Membrane in which they are fixed. The Colour of theſe <hi>Scales,</hi> makes the <hi>Tail</hi> to appear Whitiſh, though the Skin ſeems of a Darker Colour.</p>
+            <p>As the <hi>Feet</hi> and <hi>Tail,</hi> ſo likewiſe the <hi>Ears</hi> were bare, and without Hair: <hi>Auriculis tenuiſſimis, molliſſimiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ac penè tranſlucentibus,</hi> ſaith the <hi>Mexican Hiſtory (c).</hi> And although thus ſoft and ſlender; and in Colour and Sub<g ref="char:EOLhyphen"/>ſtance almoſt reſembling the Membrane of a <hi>Bat's Wing,</hi> yet they were erect, not acuminated or running to a Point, as deſcribed by ſome; but, as in our <hi>Icon</hi> is re<g ref="char:EOLhyphen"/>preſented, more of a <hi>Circular</hi> or Oval Figure: They were ſo ſlender and ſoft, that here I could not perceive that <hi>Cartilaginous</hi> Body, which uſually is to be met with in the Structure of this Part, in moſt other Animals; but as if it was void almoſt of it, to be formed only by a Duplication of this tender Membrane or <hi>Skin;</hi> or if it did enjoy a <hi>Cartilage,</hi> as likely, 'twas much finer than in moſt other Animals. The <hi>Concha</hi> or Paſſage to the <hi>Porus Auditorius</hi> was very Capacious: But 'twas obſer<g ref="char:EOLhyphen"/>ved, that when our Subject began to grow ill, the Verge or Rime of the outward <hi>Ear</hi> ſeem'd to be crimp'd; and when it died, to be ſo ſhrivel'd, as if burnt up, not making a ſmooth, but jagged Edge.</p>
+            <p>The general Vogue of almoſt all <hi>Naturaliſts,</hi> reſem<g ref="char:EOLhyphen"/>bling the <hi>Face</hi> and <hi>Head</hi> of this Animal, to that of a <hi>Fox,</hi>
+               <pb n="9" facs="tcp:64883:8"/>would much incline me, could I find but a tollerable Agreement, to acquieſce herein: But by comparing both together, I ſee but very little Likeneſs. A <hi>Fox,</hi> 'tis true, has a large Forehead, and a ſlender <hi>Roſtrum;</hi> but in a <hi>Fox</hi> it does not gradually grow Taper (as in our Subject, from the Ears to the Noſe): But here the Forehead is Prominent, and ſomewhat Oval or Circular; then makes a remarkable Break; whence is protruded a ſlender <hi>Roſtrum.</hi> I much more think, in this Particular, our Animal reſembles that of a <hi>Hog:</hi> But Compariſons being ſo deluſive, ſo un-ſatisfactory to an inquiſitive Mind; and in all <hi>Natural Hiſtory</hi> not meeting with more, and to ſo little purpoſe, as in the Deſcription of this Animal; I ſhould rather think it far more ad<g ref="char:EOLhyphen"/>viſeable, to avoid the ſeducing the Mind into an Error hereby; than at the ſame time, when 'tis pre<g ref="char:EOLhyphen"/>tended to inform, to miſ-guide the Imagination by a miſtaken and ill-choſen <hi>Simile.</hi>
+            </p>
+            <p>I ſhall only add, that the <hi>
+                  <g ref="char:V">Ʋ</g>pper-Jaw</hi> was ſomewhat longer than the <hi>
+                  <g ref="char:V">Ʋ</g>nder:</hi> The <hi>Noſtrils</hi> were large; <hi>Nares habet patentes,</hi> ſaith <hi>Margrave (a):</hi> The <hi>Eyes</hi> Black, ſmall, vivid and exerted, when alive; now dead, very much ſunck: The <hi>Neck</hi> was ſhort: The <hi>Breaſt</hi> was broad; and the Shape of the whole is beſt appre<g ref="char:EOLhyphen"/>hended by conſulting our <hi>Figure</hi> thereof.</p>
+            <p>It had <hi>Muſtacio's</hi> like a <hi>Cat; Barbam habet Felinam,</hi> ſaith <hi>Margrave (a);</hi> but his <hi>Picture</hi> of it is very much miſtaken. The <hi>Fur</hi> upon the Face is ſhorter and whiter than the reſt of the Body: The <hi>Mexico Hiſtory (c)</hi> de<g ref="char:EOLhyphen"/>ſcribes it <hi>Roſtro tenui, prolixo &amp; depili;</hi> but this muſt be only meant comparatively. On the Back and Sides the <hi>Fur</hi> was of an Aſh Colour, or dappel'd with Black Hair in Spots, intermixt with White, eſpecially on the Back; on the Belly 'twas more of an Umber Colour, and of a darker on the Legs. The longeſt <hi>Hairs,</hi> which were
+<pb n="10" facs="tcp:64883:9"/>ſtronger and courſer than the reſt, meaſured Three In<g ref="char:EOLhyphen"/>ches; being White towards the Ends: though the <hi>Mexi<g ref="char:EOLhyphen"/>can Hiſtory</hi> ſaith the contrary. <hi>Pilo longo &amp; candido, ſed circa extrema fuſco &amp; nigro,</hi> ſaith <hi>Hermandez (c). Joh. Euſeb. Nierembergius (d),</hi> in his <hi>Figure</hi> (which is much to be preferred before the others) repreſents him very Shocky, and, as it were, with Curled <hi>Hair.</hi> If what <hi>Margrave</hi> tells us be true, his Subject was different from ours; <hi>Pili autem Capitis</hi> (ſaith he <hi>(a) Colli inferi<g ref="char:EOLhyphen"/>us cum fine Ventris &amp; Caudae inferius prope exortum, ſunt flavi ſecundum long itudinem autem Capitis, per Oculos &amp; medium Capitis tendit ampla nigra ſtria.</hi> But the Colour of the <hi>Fur</hi> may vary in different Subjects.</p>
+            <p>But we will have now done with the <hi>Outward</hi> Parts, to proceed to the <hi>Inward:</hi> But that we muſt firſt of all take Notice of that moſt remarkable Part, that no other <hi>Species</hi> of Animals enjoys, as I know of, but this; that is neither <hi>Inward,</hi> nor <hi>Outward,</hi> but a <hi>Medium</hi> between both; I mean that admirable contrived <hi>Pouch</hi> or <hi>Marſu<g ref="char:EOLhyphen"/>pium</hi> that it has in the hinder <hi>Belly.</hi>
+            </p>
+            <p>For at the Bottom of the <hi>Belly,</hi> in the middle, be<g ref="char:EOLhyphen"/>tween the Two Hinder-Legs, we obſerved a <hi>Slit</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 2. <hi>and Fig.</hi> 3.</note> or <hi>Aperture,</hi> moderately extended about Two Inches long; capable of a larger Extenſion by dilating it with ones Fingers, even when it is alive. <hi>John Stadius (h)</hi> ſaith, <hi>in alvo fiſſuram habet ad dimidiae Spithamae longitudi<g ref="char:EOLhyphen"/>nem:</hi> Or, as 'tis rendred by <hi>Geſner (p) ad ſex digitos fe<g ref="char:EOLhyphen"/>re ſciſſum:</hi> Poſſibly 'tis a little over ſtretcht; however, it can ſo exactly cloſe and contract it, that the Eye does not readily diſcover it, till dilated by the Fingers.
+<q>
+                  <hi>Bur<g ref="char:EOLhyphen"/>ſae os ita clauditur, ut non appareat, niſi duobus digitis ab invicim diſtendatur,</hi> ſaith <hi>Margrave (a). Tantâ ae<g ref="char:EOLhyphen"/>qualitate &amp; vi, ut coaluiſſe cutim omnino putes,</hi> ſaith the <hi>Mexican Hiſtory (c).</hi>
+               </q>
+            </p>
+            <pb n="11" facs="tcp:64883:9"/>
+            <p>This is ſo ſurpriſing a Structure, that all <hi>Zoographers</hi> do mention it with the greateſt Admiration; and yet their Curioſity has not been ſo great, but ſeveral Mi<g ref="char:EOLhyphen"/>ſtakes they have been guilty of, in the Accounts they have given about it.</p>
+            <p>
+               <hi>Mirum autem Animal</hi> (ſaith <hi>Margrave (a) nam in in<g ref="char:EOLhyphen"/>fimo Ventre prope Crura poſteriora Pellis ejus dupla eſt, &amp; exterior rima duos &amp; ſemis digitos longa, facit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quaſi Burſam, quem Braſiliani vocant, Tambeio, Pomi Aurantii majoris capacem. Eſt autem Burſa haec intus Piloſa.</hi> All of this, I think, is very juſt and true: For at the <hi>Place</hi> he mentions, we obſerved an <hi>Aperture,</hi> or <hi>Slit,</hi> much of the Largeneſs he deſcribes, where there is of each Side, a Reduplication of the Skin inwards, which forms a <hi>Bag</hi> of the Capacity he mentions, and of a greater upon Oc<g ref="char:EOLhyphen"/>caſion, and Hairy too. But theſe Hairs here are ſo thin<g ref="char:EOLhyphen"/>ly ſet, that by no means they cover it, but almoſt eve<g ref="char:EOLhyphen"/>ry where you may obſerve the Skin.</p>
+            <p>
+               <hi>Gul. Piſo (b)</hi> has much the ſame Deſcription, but calls this <hi>Burſa, Mantica. Cardan (x)</hi> calls it <hi>Crumena. Ovi<g ref="char:EOLhyphen"/>edo (k)</hi> calls it <hi>Ventrale Marſupium.</hi> By <hi>Joh. de Laet</hi> 'tis ſtiled, <hi>Aſcus ſub Ventre pendulus</hi>
+               <note n="(z)" place="bottom">Joh. de Laet. deſcripſ. Indiae Occident. <hi>lib.</hi> 15. <hi>cap.</hi> 5. <hi>p.</hi> 551.</note>. By <hi>Fr. Xime<g ref="char:EOLhyphen"/>nez,</hi> or his Tranſlator
+<note n="(aa)" place="bottom">Vide Joh. de Laet. <hi>ibid. lib.</hi> 5. <hi>cap.</hi> 4. <hi>p.</hi> 232.</note> 
+               <hi>Pelliceus Saccus.</hi> By <hi>Jul. Caeſ. Scaliger (r), Scortum ſubventrale.</hi> By <hi>Peter Martyr (w), <g ref="char:V">Ʋ</g>terus Exterior.</hi> By <hi>Hieron. Benzon. (y), Venter alter.</hi> By Captain <hi>John Smith (n)</hi> 'tis called a <hi>Bag.</hi> The <hi>Name</hi> we ſhall uſe for it, will be, the <hi>Marſupium</hi> or <hi>Pouch.</hi>
+            </p>
+            <p>Herein all agree, that the uſe of this <hi>Bag, Pouch,</hi> or <hi>Marſupium,</hi> is for the <hi>Preſervation</hi> of the Young Ones, and ſecuring them upon any Occaſion of Danger: <hi>Qua<g ref="char:EOLhyphen"/>ternos,
+<pb n="12" facs="tcp:64883:10" rendition="simple:additions"/>quinoſve parit Catulos</hi> (ſaith <hi>Hernandez (c) quos <g ref="char:V">Ʋ</g>tero conceptos, editoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in lucem, Alvi Capacitate qua<g ref="char:EOLhyphen"/>dam, dum adhuc parvuli ſunt, claudit ac ſervat. Peter Martyr (w)</hi> tells us, <hi>Quod natos ſibi Catulos circumfert, quocunque profiſcatur, <g ref="char:V">Ʋ</g>tero exteriore in modum magnae Crumenae dependente,</hi> &amp;c. <hi>quo à venatoribus vel aliàs à caeteris violentis ac rapacibus Animalibus natos liberet, illos ſecum aſportando: nunquam autem illos emittere dici<g ref="char:EOLhyphen"/>tur, niſi aut recreandi, vel lactandi Gratia, donec ſibi vi<g ref="char:EOLhyphen"/>ctum per ſe queritare dedicerint. Oviedus (k)</hi> adds, <hi>Quod Beſtia haec ritu muſtelarum noctu domos ingrediatur, ne<g ref="char:EOLhyphen"/>canſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Gallinas, earum ſanguinem tantum modo ſugat: imo illic Ventrale Marſupium aperit: filioſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dimittit, ut &amp; ipſi ad Gallinaceum ſanguinem ſorbendum aſſueſcant: in<g ref="char:EOLhyphen"/>terim ſi aliquem ſtrepitum ſenſerit, illico natos in crume<g ref="char:EOLhyphen"/>nam recipiens, fugam arripit.</hi> And <hi>Joh. Stadius (h)</hi> owns he has taken out the Young Ones hence; <hi>Aliquoties eaſdem ipſe venatus ſum, &amp; Catulos ex ſinu ipſemet deprompſi.</hi> This Particular, I think, is evident by the Confeſſion of all; and therefore ſhall not uſe more Quotations to confirm it: And <hi>Nierembergius (d),</hi> on this Account, in his <hi>Picture</hi> of this Animal, repreſents the Young Ones as crawling out. But when they tell us, there is no other <hi>
+                  <g ref="char:V">Ʋ</g>terus:</hi> But that the <hi>Faetus</hi> are formed here, and nouriſhed here; and this too, when they own they have <hi>diſſected</hi> this Animal; this is too great a Miſtake to be longer Propagated, and from <hi>Autopſie</hi> we ſhall de<g ref="char:EOLhyphen"/>monſtrate the contrary, when we come to the Diſ<g ref="char:EOLhyphen"/>ſection.</p>
+            <p>But ſince the great and wiſe Deſign of <hi>Nature,</hi> in contriving this Part, is for the <hi>Preſervation</hi> of the Young Oaes, in receiving and emitting them as there is Occaſion; we will contemplate and admire the admira<g ref="char:EOLhyphen"/>ble Structure and Artifice ſhe uſes in forming and adopt<g ref="char:EOLhyphen"/>ing it ſo ſuitably for this End.</p>
+            <pb n="13" facs="tcp:64883:10"/>
+            <p>We will therefore here remark the Structure of the <hi>Muſcles,</hi> which, like Strings, do ſerve to open and ſhut this <hi>Pouch.</hi> But in the doing this, we muſt firſt deſcribe thoſe Two remarkable <hi>Bones</hi> this Animal has, more than is to be met with in any <hi>Sceleton</hi> beſides, which are of great Uſe and Service herein: And, from their Office, I ſhall take leave to call them, <hi>Oſſa Marſupialia,</hi> or <hi>Jani<g ref="char:EOLhyphen"/>tores Marſupii.</hi> I do not find they have been yet taken notice of by any; and though they do belong to the <hi>Sceleton,</hi> yet I can't avoid their Deſcription here, becauſe of the <hi>Muſcles</hi> that are inſerted to them, that do ſerve to open the <hi>Pouch.</hi>
+            </p>
+            <p>Theſe <hi>Oſſa Marſupialia</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 5.</note> or <hi>Janitores Marſupii</hi> (as I call them) are Two ſtrong <hi>Bones,</hi> ſo faſtened to the up<g ref="char:EOLhyphen"/>per and inward Edge of the <hi>Oſſa Pubis,</hi> that at their <hi>Baſis</hi> here, they touch'd one another, juſt at the Coali<g ref="char:EOLhyphen"/>tion
+<note n="†" place="margin">b.</note> of the <hi>Bones</hi> that forms the <hi>Oſſa Pubis</hi>
+               <note n="=" place="margin">a. a.</note>. The other Extreme of theſe <hi>Bones</hi> were ſo diſtant from one another, that it meaſured Two Inches and an Half. The <hi>Baſis</hi>
+               <note n="*" place="margin">d. e.</note> of theſe <hi>Bones,</hi> where join'd to the <hi>Oſſa Pubis,</hi> was half an Inch broad, having Two <hi>Heads;</hi> the larger
+<note n="‖" place="margin">d.</note> lying near the Coalition of the <hi>Oſſa Pubis,</hi> and the leſſer
+<note n="†" place="margin">e.</note> towards the <hi>Os Coxendicis;</hi> having in the middle a <hi>Sinus,</hi> into which was received a Protuberance of the <hi>Oſſa Pubis:</hi> By which Contrivance it appears, there can be no <hi>Mo<g ref="char:EOLhyphen"/>tion</hi> of theſe <hi>Bones,</hi> nearer or farther from one another, but that they muſt ſtand always at an equal Diſtance. Nor did I, upon trial, find it otherwiſe; but obſerved, they were capable of a ſmall <hi>Motion</hi> inwards towards the <hi>Spine,</hi> and outwards from it. Theſe <hi>Bones,</hi> as they aſ<g ref="char:EOLhyphen"/>cended from the <hi>Os Pubis,</hi> grew ſlenderer, being about the Middle but a quarter of an Inch broad; and they were each, Two Inches long.</p>
+            <p>To each of theſe <hi>Bones</hi> there were beſtowed Four Pair of <hi>Muſcles:</hi> There was <hi>another Pair</hi> that did run over
+<pb n="14" facs="tcp:64883:11"/>them; to which theſe <hi>Bones</hi> did perform the Office of a <hi>Trochlea.</hi>
+            </p>
+            <p>The <hi>Firſt</hi> Pair of <hi>Muſcles (i.e.</hi> which firſt came to be diſ<g ref="char:EOLhyphen"/>ſected, upon the Pronation of the Animal, and from its Figure, I ſhall call, <hi>Triangularis</hi>) ariſes Fleſhy from the whole Length of the internal Side of theſe <hi>Bones,</hi> and in<g ref="char:EOLhyphen"/>ſerted their oppoſite <hi>Tendons</hi> on each ſide of the <hi>Rima,</hi> or Aperture of the <hi>Marſupium.</hi> Under part of theſe <hi>Muſcles,</hi> lay <hi>another,</hi> or a <hi>Second Pair;</hi> ſlat and thin; having their <hi>Origin</hi> from the upper Part of the internal Side of the <hi>Oſſa Marſupialia</hi> and <hi>inſerting</hi> their oppoſite <hi>Tendons</hi> a little above the <hi>Tendons</hi> of the former <hi>Muſcles,</hi> the Tendence or Direction of the <hi>Muſcular Fibres</hi> of this Pair, in Relation to the Firſt, made a Decuſſation. <hi>The Third Pair</hi> of <hi>Muſcles</hi> we ſhall take notice of, had their <hi>Riſe</hi> from the Fore-part of the <hi>Baſis</hi> of theſe <hi>Bones,</hi> where they were jointed to the <hi>Os Pubis;</hi> and were afterwards <hi>inſerted</hi> into the <hi>Linea Aſpera</hi> of the <hi>Thigh-Bone.</hi> The <hi>Fourth Pair</hi> did <hi>ariſe</hi> from the external Side of theſe <hi>Bones</hi> near the <hi>Baſis,</hi> and are <hi>inſerted</hi> into the Fore Part of the <hi>Thigh-Bone</hi> near the middle.</p>
+            <p>The <hi>Laſt Pair</hi> of <hi>Muſcles</hi> I hinted at, (to which I thought theſe <hi>Bones</hi> might perform the Office of a <hi>Tro<g ref="char:EOLhyphen"/>chlea,</hi> or <hi>Pully) ariſes</hi> more immediately from the <hi>Mar<g ref="char:EOLhyphen"/>ſupium</hi> or <hi>Pouch</hi> it ſelf: For ſpreading their Muſcular Fi<g ref="char:EOLhyphen"/>bres all over this <hi>Bag,</hi> as they iſſue from it, by joining their Fibres together; they more remarkably form a ſolid <hi>Muſcle;</hi> which of each ſide <hi>paſſing over</hi> the middle of theſe <hi>Bones, (i. e.</hi> in the prone Poſture we are diſſect<g ref="char:EOLhyphen"/>ing it) at length were <hi>inſerted</hi> into the Spine of the <hi>Os Ilii.</hi>
+            </p>
+            <p>By conſidering the Structure of theſe <hi>Muſcles,</hi> and what muſt be the Effect of their <hi>Action</hi> or Contraction; one cannot but think the <hi>Two First</hi> muſt ſerve towards the Dilatation or <hi>opening</hi> this <hi>Marſupium</hi> or <hi>Pouch:</hi> For
+<pb n="15" facs="tcp:64883:11"/>theſe <hi>Bones</hi> are a <hi>Fulciment</hi> or <hi>Baſis;</hi> their Articulation will not admit of a Contraction inwards or nearer to one another; wherefore, when the <hi>Firſt</hi> and <hi>Second</hi> Pair of Muſcles act or <hi>contract,</hi> they muſt neceſſarily <hi>open</hi> or di<g ref="char:EOLhyphen"/>late the Mouth of the <hi>Marſupium</hi> or <hi>Pouch.</hi> The <hi>Third</hi> and <hi>Fourth</hi> Pair of theſe Muſcles may ſerve to <hi>extend</hi> theſe Bones outwards; ſo that when this Animal <hi>hangs</hi> by its <hi>Tail</hi> (as it does frequently) the <hi>Weight</hi> of the <hi>Faetus</hi> in this <hi>Pouch</hi> by this means will not preſs ſo much upon the inward <hi>Viſcera.</hi> The <hi>Fifth</hi> and <hi>Last</hi> Pair, as they may ſerve to dilate the Capacity of the <hi>Pouch</hi> it ſelf, ſo likewiſe may ſerve the better to ſuſpend its Weight, when the Animal is <hi>prono Capite,</hi> and if it gravitates too much, they may retract it up, and the eaſier, becauſe paſting over theſe Bones like a Pully, their force is more aug<g ref="char:EOLhyphen"/>mented.</p>
+            <p>The <hi>Antagoniſt</hi> to theſe Muſcles is, the <hi>Sphincter Mar<g ref="char:EOLhyphen"/>ſupii;</hi> an oval <hi>Series</hi> of ſtrong, fleſhy Fibres, which ſerve to <hi>conſtringe</hi> and cloſe the Orifice of the <hi>Pouch;</hi> which it does ſo perfectly (as I have already obſerved), that one would think the <hi>Skin</hi> here not to be <hi>ſlit;</hi> nor can the <hi>Orifice</hi> be obſerved till you have <hi>dilated</hi> it with your Fingers.</p>
+            <p>Nature's Contrivance therefore in placing this <hi>Pouch</hi> here, in this <hi>Hinder</hi> Part of the Body, is very great; her <hi>Mechaniſme</hi> in forming theſe <hi>Two Bones,</hi> the <hi>Janitores Marſupii,</hi> which no <hi>Sceleton</hi> beſides has, and ſo artfully furniſhing them with theſe Muſcles, is moſt admirable; that with the <hi>Philoſopher,</hi> there is none but muſt own <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>The <hi>Pouch</hi> or <hi>Marſupium</hi> it ſelf, was a Membranous Body, not very thick, tho' conſiſting of ſeveral Coats, and is to be reduced into the Claſs of the <hi>Veſiculous</hi> Parts of the Body; which according to my Notion, are part <hi>Muſcles,</hi> part <hi>Glands,</hi> and do perform the Office of both,
+<pb n="16" facs="tcp:64883:12"/>
+               <hi>Motion</hi> and <hi>Secretion:</hi> for the Concave or Hollow
+<note n="†" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 3.</note> of this <hi>Pouch</hi> (as I have remark'd) was ſomewhat Hairy; and at ſeveral Places I could obſerve them matted or cling'd together by a <hi>Yellowiſh Subſtance,</hi> which did ouze out of the <hi>Cutaneous Glands</hi> there; as under the <hi>Arm<g ref="char:EOLhyphen"/>pits</hi> in a Man, it is obſerved. <hi>This Liquor</hi> thus emptied into the <hi>Pouch</hi> from the <hi>Glandulous Coat,</hi> I found was ſtrong <hi>Scented,</hi> and had more of the Peculiar <hi>Foetor</hi> of this Animal, than any part beſides; being no ways grateful, but unpleaſant to the Smell, as has been obſer<g ref="char:EOLhyphen"/>ved of this Creature, when alive: <hi>Faetet Animal inſtar Vulpis vel Martis,</hi> ſaith <hi>Margrave (a). Vulpeculis Hi<g ref="char:EOLhyphen"/>ſpanienſibus ſunt ſimiles ſed minores, &amp; longe graveolenti<g ref="char:EOLhyphen"/>ores,</hi> ſaith <hi>Joh. de Laet (z).</hi> But after the <hi>Skin</hi> with the <hi>Pouch</hi> had been kept for ſome Days, and was grown <hi>dry,</hi> I found ſo great an Alteration here in the Smell, that what before was ſo diſagreeable, now was become a perfect <hi>Perfume,</hi> and ſmelt altogether like <hi>Musk;</hi> which made me call to mind what formerly I had re<g ref="char:EOLhyphen"/>marked
+<note n="(bb)" place="bottom">Philoſ. Tranſact. <hi>No.</hi> 144. <hi>p.</hi> 39.</note> of theſe <hi>Scent-Bags</hi> in other Animals; that in a <hi>Weaſel,</hi> which <hi>Stinks</hi> like a <hi>Pole-cat,</hi> by ſpreading this Faeted Liquor contained in the <hi>Scent-Bags</hi> (as I call them) on a Paper, and ſo letting it dry, it became a grateful Perſume, <hi>&amp;c.</hi> wherefore afterwards, in my De<g ref="char:EOLhyphen"/>ſcription and <hi>Anatomy</hi> of the <hi>Tajacu</hi>
+               <note n="(cc)" place="bottom">Philoſoph. Tranfact. <hi>No.</hi> 153. <hi>p.</hi> 379.</note> (a <hi>Mexican</hi> Wild-Hog); when I came to diſſect it, ſome Days after it had been dead; and the <hi>Virus</hi> or horred <hi>Faetor</hi> of the Liquor contained in the <hi>Scent-Bag</hi> (which was a large <hi>Gland</hi> on the Back) had ſpent its ſelf, and it became an agreeable <hi>Perfume:</hi> Upon this Conſideration, I took the Liberty (it may be, a too great an one) to call it <hi>Moſchiferus;</hi>
+               <pb n="17" facs="tcp:64883:12"/>though the general Conſent of all Authors had branded it with the Note of a <hi>Faetid ſtinking</hi> Animal. But at the ſame time, I inſtanced, that in the richeſt Perfumes we have, as <hi>Musk, Civet,</hi> and <hi>Ambergrieſe,</hi> the ſame is ob<g ref="char:EOLhyphen"/>ſerved; and that Paſſage I quoted in <hi>Gul. Piſo</hi>
+               <note n="(dd)" place="bottom">De Indiae utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> re Nat. &amp; Med. <hi>lib.</hi> 1. <hi>p. m.</hi> 17.</note> con<g ref="char:EOLhyphen"/>cerning <hi>Ambergrieſe,</hi> is very remarkable.</p>
+            <p>Upon looking over this part of my Account of the <hi>Ta<g ref="char:EOLhyphen"/>jacu,</hi> I find this Paſſage <hi>(cc):</hi>
+               <q>And I am apt to think, 'twas by removing theſe <hi>Scent-Bags,</hi> rather than ta<g ref="char:EOLhyphen"/>king away the <hi>Kidneys,</hi> that they made the <hi>Saragoy</hi> edible; which otherwiſe <hi>ſtank</hi> ſo much, that the Barbarous Nations refuſed them; as out of <hi>Lerius, Joh. Faber</hi>
+                  <note n="(ee)" place="bottom">Hiſtor Mexican. <hi>p.</hi> 658.</note> takes notice.</q> 
+               <hi>Joh. Lerius</hi> his Words are theſe, as he is printed in <hi>Theodore de Bry
+<note n="(ff)" place="bottom">Americ. <hi>part tertia p.</hi> 180.</note> alia etiam invenitur (Beſtia) quam Saragoy appellant, quae ob faetorem a Barbaris non comeditur, nos autem quibuſdam excoriatis, &amp; detractâ Renum pinguedine, unde faetor ille manebat, ſine faſtidio edimus, carne enim cum tenera, tum optima eſt.</hi> And I find my Conjecture was not amiſs; for although then I knew not where this <hi>Scent-Bag</hi> was placed, yet now I find it was the <hi>Marſupium,</hi> or <hi>Pouch;</hi> and that <hi>Lerius</hi> was altogether miſtaken in attributing this <hi>Faetor</hi> to the <hi>Kidneys,</hi> or the <hi>Fat</hi> about them; for I could not ſmell any thing ungrateful, or ill-ſcented there.</p>
+            <p>Upon this Occaſion, I can't but make a farther Re<g ref="char:EOLhyphen"/>mark upon the <hi>Scent-Bag</hi> of the <hi>Musk-Deer;</hi> which is likewiſe placed in the Belly near the <hi>Navil,</hi> and makes a large Cod. <hi>Lucas Schröckius</hi>
+               <note n="(gg)" place="bottom">Hiſtoria Moſchi.</note> has wrote a diſtinct Treatiſe about it; to whom I ſhall reſer my Reader. But though there is this <hi>Analogy</hi> between our <hi>Poſſum</hi> and
+<pb n="18" facs="tcp:64883:13"/>the <hi>Musk-Deer,</hi> that both have their <hi>Scent-Bags</hi> placed in the <hi>Belly,</hi> and they have an <hi>Aperture</hi> there; yet the grand <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of the <hi>Pouch</hi> of the <hi>Poſſum</hi> is very different, as we have already ſeen.</p>
+            <p>Having therefore mentioned the <hi>Glandulous</hi> Coat of the <hi>Marſupium</hi> (on whoſe Account it may be reckoned as a <hi>Scent-Bag</hi>) I muſt here take notice that it had like<g ref="char:EOLhyphen"/>wiſe a <hi>Muſcular</hi> Coat, beſides thoſe ſeveral other <hi>Muſcles</hi> beſtowed upon it, which we have obſerved already, that gave it Motion. It had likewiſe a <hi>Vaſcular</hi> Coat too, being plentifully irrigated with <hi>Blood-Veſſels,</hi> eſpe<g ref="char:EOLhyphen"/>cially by Two large <hi>Branches</hi> that came from the upper part of the <hi>Thorax,</hi> and might be reckoned the <hi>Mamma<g ref="char:EOLhyphen"/>ria,</hi> as they are ſtiled in other Animals. This <hi>Pouch</hi> was faſtened by ſeveral Membranes to the Muſcles of the <hi>Abdomen</hi> and the Skin; but ſo as I could ſeparate it for the moſt part, with my Fingers.</p>
+            <p>But here I find, in this <hi>Marſupium</hi> or <hi>Pouch,</hi> they place the <hi>Mammae</hi> or <hi>Teats;</hi> and they tell very odd Sto<g ref="char:EOLhyphen"/>ries about it: I will only relate what they ſay of it, and what I at preſent obſerved, or rather, did not obſerve.</p>
+            <p>
+               <hi>Joh. Petrus Maffeius (e)</hi> makes this <hi>Pouch,</hi> not <hi>ſingle,</hi> but <hi>double,</hi> he places the <hi>Mammae</hi> here, and the Young Ones to be ſo fixt to them, as if they almoſt <hi>grew</hi> there. <hi>Illud autem mirum in Cerigonibus, ex ejus alvo duae depen<g ref="char:EOLhyphen"/>dent veluti Manticae, in iis catulos circumfert, &amp; quidem adec pertinaciter ſuo quem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <g ref="char:V">Ʋ</g>beri affixos, ut a perpetuo ſuctu non avellantur, antequam ad paſtum ipſi per ſe pro<g ref="char:EOLhyphen"/>gredi valeant.</hi> And much the ſame has <hi>Caſp. Barlaeus (f) Cerignones</hi> (ſaith he) <hi>Vulpis magnitudine, inſolito ſpecta<g ref="char:EOLhyphen"/>culo alvum oſtentant, è quâ duae veluti Manticae dependent, quibus catulos geſtant, tam valido ſuctu <g ref="char:V">Ʋ</g>beribus adhaeren<g ref="char:EOLhyphen"/>tes, ut non antea demittunt, quàm adultiores ad pabulum ipſi excurrere valeant. Gul. Piſo (b)</hi> out does them <hi>both;</hi> for he makes them not only Nouriſhed, but Formed
+<pb n="19" facs="tcp:64883:13"/>here: <hi>Ex reiteratis</hi> (ſaith he) <hi>horum Animalium ſectio<g ref="char:EOLhyphen"/>nibus alium non invenimus <g ref="char:V">Ʋ</g>terum, praeter hane Burſam, in qua ſemen Concipitur &amp; Catuli formantur. Quos deinde Quinos vel ſenos ſimul circumfert, mobiles, perfectos, ſed de<g ref="char:EOLhyphen"/>piles adeo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pertinaciter <g ref="char:V">Ʋ</g>beribus affixos, ut a perpetuo ſuctu vix avellantur, antequam permittente Matre ad paſtum ipſi egrediuntur; unde redientes denuo, uterum maternum pro lubitu ingrediuntur.</hi> So <hi>Joh. Stadius,</hi> as I find him Printed in <hi>Theodor de Bry
+<note n="(hh)" place="bottom">Americ. Part Tertia. Joh. Stadii Hiſt. Braſilian. <hi>cap.</hi> 32. <hi>p.</hi> 129.</note> In Alvo</hi> (ſaith he) <hi>fiſſuram habet ad dimidiae ſpithamae longitudinem, intra eam alia Cutis ſubeſt, nec enim alvus hiat aut fathiſcit, in eo ſinu ſunt <g ref="char:V">Ʋ</g>bera, quocunque obambulat proles ſecum geſtat.</hi> So likewiſe <hi>Peter Bembus</hi>
+               <note n="(ii)" place="bottom">Hiſt. Venet. <hi>lib.</hi> 6.</note>, writing of the new diſcovered Iſlands, ſaith, <hi>Animal eae ſylvae nutriunt Cuniculi magnitudine, Gallinis infeſtiſſimum, cujus quidem faemina loculum habet e Pelle <g ref="char:V">Ʋ</g>tero annexum, quaſi <g ref="char:V">Ʋ</g>terum alterum faecundum <g ref="char:V">Ʋ</g>beribus, in quo Catulos ſecum geſtat, emittit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cum vult.</hi> And our Country-man, <hi>Captain Smith (n)</hi> ſeems of this Opinion too; where he ſaith, <hi>
+                  <g ref="char:V">Ʋ</g>nder her Belly ſhe hath a Bag, wherein ſhe lodges, car<g ref="char:EOLhyphen"/>rieth and ſuckleth her Young.</hi> But <hi>Gillius,</hi> as he is quoted by <hi>Geſner (p),</hi> tells us, That <hi>non ex receptaculo prodeunt, niſi cum lac ſugunt.</hi> So likewiſe <hi>Vincent. Pinzonus (u), Nec unquam exeunt Crumenam, niſi quum ſungunt;</hi> which intimates, That the <hi>Teats</hi> are not placed here, ſince they muſt go out of <hi>ſuck.</hi>
+            </p>
+            <p>I muſt confeſs, upon what Obſervation I could make, I did not find any <hi>Teats</hi> here; nor indeed did I find them in the outward Skin; as is uſual in other <hi>Multiparous</hi> Animals. Poſſibly this Subject never had a <hi>Litter;</hi> ſo for want of <hi>drawing,</hi> they might be leſs; ſo as to eſcape
+<pb n="20" facs="tcp:64883:14"/>our <hi>View,</hi> for the preſent: But in another Subject, I doubt not but that they may be diſcovered.</p>
+            <p>But this <hi>Bag</hi> or <hi>Pouch</hi> is not only appropriated to the <hi>Female,</hi> as one would gueſs by what <hi>P. Bembus (ii)</hi> ſaid before: But if we may believe <hi>G. Piſo (b),</hi> the <hi>Male</hi> has one too: "<hi>Mas faemellae plane ſimilis, &amp;c.</hi> (ſaith he) <hi>&amp; quod notatu dignum, manticam (licet a faemellae diverſam) habet; qua alternatis vicibus Catulos quoque circumfert; ſicut avis mas amore pullorum, faemellam ab incubatu ſub<g ref="char:EOLhyphen"/>inde liberans.</hi> I could have wiſhed he had given us an Account of the diverſity of the <hi>Pouch</hi> in the <hi>Male,</hi> from that of the <hi>Female;</hi> and had one an Opportunity of Diſſecting a <hi>Male,</hi> it would much illuſtrate the <hi>Hiſtory</hi> of this Animal. So likewiſe the Author of the <hi>Preſent State</hi> of his Majeſty's Iſles and Territories in <hi>America, (pag.</hi> 138.) tells us, That <hi>the Male has ſuch another Purſe under his Belly, and takes his turn to carry the Young Ones, to eaſe the Female.</hi> But more of the <hi>Male,</hi> when I ſhall come to mention the <hi>Tai-ibi.</hi>
+            </p>
+            <p>This Contrivance of Nature for ſecuring the <hi>Young Ones</hi> from any Danger, till they are able to ſhift for themſelves, I think, is not to be parallel'd in any <hi>Species</hi> of Animals, at leaſt of the <hi>Quadruped</hi> Kind, beſides. Not that ſhe is wanting in abundantly providing for their <hi>Preſervation;</hi> but the pleaſes her ſelf in uſing infi<g ref="char:EOLhyphen"/>nite <hi>Variety</hi> in attaining the ſame End. Nor is there wanting Inſtances enough to evince it: What moſt reaches, and comes up to our Subject is, what I find re<g ref="char:EOLhyphen"/>corded in <hi>Oppianus</hi>
+               <note n="(kk)" place="bottom">Halieutic. <hi>lib.</hi> 1. <hi>ver.</hi> 132.</note> in his excellent <hi>Poem</hi> of <hi>Fiſhes:</hi> For in his <hi>Halieuticks,</hi> deſcribing the <hi>Philoſtorgia</hi> of <hi>Fiſh<g ref="char:EOLhyphen"/>es,</hi> having mentioned the <hi>Dolphin,</hi> he comes to the <hi>Dog<g ref="char:EOLhyphen"/>fiſh,</hi> and tells us, that upon any Storm or Danger, if
+<pb n="21" facs="tcp:64883:14"/>purſued, the <hi>Young Ones run</hi> into the <hi>Mother's Belly;</hi> and when the Fright and Danger is over, they <hi>come out</hi> again. I ſhall not think much to tranſcribe his <hi>Verſes;</hi> which were ſo admired by <hi>Antoninus,</hi> the preſent <hi>Emperor</hi> of <hi>Rome,</hi> to whom he made the Dedication, that not only for them, he revoked the Baniſhment of his <hi>Father;</hi> but preſented <hi>him</hi> likewiſe with a <hi>Golden Statera</hi> for each Verſe; whence they are called <hi>Golden Verſes:</hi> Which, according to <hi>Suidas</hi>'s Computation, came to Twenty Thouſand. <hi>Suidas</hi>
+               <note n="(ll)" place="bottom">In Voce Oppianus.</note> his Words are theſe: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>And upon this Occaſion, <hi>Oppian</hi> not only inſtances in the <hi>Dog fiſh,</hi> but in the <hi>Squatina,</hi> and <hi>Glaucus</hi> too: But there are different <hi>Receptacles</hi> he does aſſign, that theſe <hi>Two latter</hi> do make uſe of, for the receiving their <hi>Young,</hi> in Caſe of Danger. <hi>Oppian</hi>'s <hi>(kk)</hi> Verſes are theſe:
+<q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <pb n="22" facs="tcp:64883:15"/>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </q>
+            </p>
+            <p>Which an ingenious Friend of mine has thus tranſlated: And indeed, the whole <hi>Poem</hi> is ſo fine, ſo noble and rich a Thought; that if the <hi>Tranſlation</hi> of it was at<g ref="char:EOLhyphen"/>tempted by ſome good <hi>Genius,</hi> he would find Charms enough in it to raiſe his Fancy; and a Subject Worthy his greateſt Skill.</p>
+            <q>
+               <lg>
+                  <l>None to their <hi>Young</hi> ſo kind as <hi>Dolphins</hi> are;</l>
+                  <l>Tho' other <hi>Fiſh</hi> of theirs, expreſs their Care.</l>
+                  <l>This in the <hi>Dog-fiſh,</hi> we with Wonder ſee;</l>
+                  <l>To whom her trembling <hi>Whelps</hi> from Danger flee.</l>
+                  <l>For when a dreadful Storm imbroils the Deep,</l>
+                  <l>Within her <hi>Bowels,</hi> they for Refuge creep;</l>
+                  <l>They paſs directly to her <hi>Womb;</hi> the Way</l>
+                  <l>By which excluded, firſt they ſaw the Day.</l>
+                  <l>She, tho' diſtended, and in torturing Pains,</l>
+                  <l>The bulky Burden patiently ſuſtains,</l>
+                  <l>While the loud Terrors of the Tempeſt laſt:</l>
+                  <l>But when the Danger, and their Fears are paſt,</l>
+                  <l>Strait from her ſuff'ring <hi>Womb,</hi> the <hi>Whelps</hi> retreat,</l>
+                  <l>And ſhe her Labour, they their Birth repeat.</l>
+               </lg>
+               <lg>
+                  <pb n="23" facs="tcp:64883:15"/>
+                  <l>The <hi>Squatina</hi> do's the ſame Love betray,</l>
+                  <l>As <hi>Dog-fiſh</hi> do, but in a different way.</l>
+                  <l>Nature has <hi>Bags</hi> on either ſide prepar'd</l>
+                  <l>Beneath her <hi>Gills;</hi> where ſhe do's hide and guard.</l>
+                  <l>Her frighted <hi>Young;</hi> with ſudden Danger ſcar'd.</l>
+               </lg>
+               <lg>
+                  <l>Some thro' the Parent's gaping <hi>Throat</hi> deſcend;</l>
+                  <l>Whom as a Houſe, or Neſt, their <hi>Maws</hi> defend.</l>
+                  <l>The <hi>Glaucus,</hi> for Affection, is by none</l>
+                  <l>Of all the Fiſh <hi>Oviparous</hi> out-done.</l>
+                  <l>Cloſe by her Spawn, ſhe does unwearied ſtay,</l>
+                  <l>Her Off-ſpring to protect from Fiſh of Prey.</l>
+                  <l>And when, with tender Fins, they ſtrike the Tide,</l>
+                  <l>She with them ſwims, their conſtant Guard and Guide,</l>
+                  <l>For if it happens, that the trembling Fry</l>
+                  <l>Do ſome Voracious Enemy deſcry,</l>
+                  <l>Opening her Jaws, ſhe kindly does devour</l>
+                  <l>Her <hi>Young;</hi> to ſave them from th' Invaders Power.</l>
+                  <l>Their Fears remov'd, ſhe ſpues them up; to eaſe</l>
+                  <l>Her Labour, and reſtores them to the Seas.</l>
+               </lg>
+            </q>
+            <p>I muſt confeſs, I would not expect in a <hi>Poet,</hi> that Nicety and Exactneſs of <hi>Natural Hiſtory,</hi> as in a <hi>Philo<g ref="char:EOLhyphen"/>ſopher,</hi> who is not to give a looſe to his Imagination, but truly to relate Matter of Fact. But this Particular of the <hi>Dog-fiſh,</hi> with me, bears the more Reſemblance of Truth; for formerly, diſſecting a <hi>Fiſh</hi> of this <hi>Kind,</hi> that was a <hi>Female;</hi> as it was ſurpriſing to me at the ſame time, to obſerve here the <hi>gradual</hi> Formation of ſe<g ref="char:EOLhyphen"/>veral <hi>Faetus;</hi> ſome juſt beginning to be formed, others an Inch long or Two; others Four or Five; ſome Nine or Ten, and fit for Birth: So what comes moſt to our Buſineſs was, That near the <hi>Exit</hi> of the <hi>Pudendum</hi> of each ſide, I obſerved a <hi>Foramen</hi> or Hole that was capa<g ref="char:EOLhyphen"/>ble
+<pb n="24" facs="tcp:64883:16" rendition="simple:additions"/>of Extenſion, and readily enough would admit my Finger, which led into the Cavity of the <hi>Abdomen</hi> or Belly it ſelf; and not into any <hi>Bag,</hi> or the <hi>
+                  <g ref="char:V">Ʋ</g>terus,</hi> or any other Part. <hi>Beſides,</hi> in the <hi>Abdomen</hi> I found a Quantity of Water, which I could not but think was let in this Way. So that if upon Obſervation at any time, there ſhould be found looſe in the Cavity of the <hi>Belly</hi> of this Fiſh, a <hi>Young</hi> one; there would be no Reaſon to miſtruſt the Relation, ſince here are Two <hi>Doors</hi> to let them in and out.</p>
+            <p>
+               <hi>Aelian</hi>
+               <note n="(mm)" place="bottom">Hiſt. Animal. <hi>l.</hi> 1. <hi>c.</hi> 18.</note> relates the ſame Story of the <hi>Dog-fiſh;</hi> his Words, as they are tranſlated by <hi>P. Gillius,</hi> are theſe; <hi>Si quis eorum</hi> (ſpeaking of the Young Ones) <hi>timeat, in<g ref="char:EOLhyphen"/>greditur rurſus per Genitalia in Ventrem Matris; ubi ti<g ref="char:EOLhyphen"/>mor abierit, is prodit tanquam rurſus editus.</hi> And in the preceding Chapter he tells the ſame (as our <hi>Poet</hi> does) of the <hi>Glaucus:</hi> And that Paſſage of <hi>Zeza,</hi> as 'tis quoted by the Learned <hi>Conrad. Ritterſhuſius</hi>
+               <note n="(nn)" place="bottom">Comment. in <hi>lib.</hi> 1. Halieut. <hi>p. m.</hi> 214.</note> is very expreſs: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Nay, <hi>Ariſtottle</hi>
+               <note n="(oo)" place="bottom">Hiſt. Animal <hi>lib.</hi> 6. <hi>cap.</hi> 8. <hi>p.</hi> 677.</note> himſelf acknowledges the ſame thing of the <hi>Galeus,</hi> which is of the <hi>Dog Kind:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Which <hi>Jul. Caeſ. Scaliger</hi> thus tranſlates, <hi>Gaeterum Muſtelorum genera &amp; emittunt &amp; admittunt in<g ref="char:EOLhyphen"/>tra ſe Catulos; item Squatinae &amp; Torpedines.</hi> And the like he
+<note n="(pp)" place="bottom">Hiſt. Animal. <hi>lib.</hi> 6. <hi>cap.</hi> 10. <hi>p.m.</hi> 682.</note> affirms of the <hi>Dolphin</hi> and <hi>Porpois:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But after all, if what is thus related of theſe <hi>Fiſhes</hi> ſhould prove but a vulgar
+<pb n="25" facs="tcp:64883:16"/>
+               <hi>Error,</hi> 'tis one of a very <hi>Ancient</hi> Date; and it is high time it was removed: and if there ſhould be any <hi>Truth</hi> in theſe Stories, for the gaining a greater Belief thereto, 'tis requiſite that 'twas ſupported by ſome more <hi>evident</hi> Proof, and confirmed by <hi>later</hi> Obſervation. But what we mention of our <hi>Quadruped,</hi> the <hi>Poſſum,</hi> is notoriouſly known and agreed on of all Hands; to whom, after this Digreſſion, (too large an one it may be) we ſhall now return; and ſhall therefore be more conciſe in the De<g ref="char:EOLhyphen"/>ſcription of the other <hi>Parts;</hi> and ſhall chiefly take No<g ref="char:EOLhyphen"/>tice of thoſe only, wherein I find ſomething remarkable, and different from the common Make of the ſame <hi>Parts</hi> in other Animals.</p>
+            <p>And for this Reaſon I have very little to ſay of thoſe <hi>Parts</hi> in the <hi>Thorax,</hi> I only obſerved, that the <hi>Lungs</hi> had Three <hi>Lobes</hi> on one ſide; and but One on the other: But this One, was as large as the other Three. They were ſoft and ſpongy, and eaſily dilated, and large proporti<g ref="char:EOLhyphen"/>onably to the Animal.</p>
+            <p>The <hi>Heart</hi> was included in a <hi>Pericardium,</hi> as uſually; but the <hi>Heart</hi> it ſelf I thought proportionably larger, in reſpect to the Bulk of the Body, than is commonly; nor was its <hi>Cone</hi> ſo ſharp, but rather more obtuſe. It had Two <hi>Auricles,</hi> and Two <hi>Ventricles.</hi>
+            </p>
+            <p>About the <hi>Throat</hi> there were large <hi>Glandulae Maxilla<g ref="char:EOLhyphen"/>res.</hi> The <hi>Tongue</hi> was a little above Three Inches Long, about Three Quarters of an Inch broad; 'twas rough, having ſeveral Protuberances, whoſe Points looked in<g ref="char:EOLhyphen"/>wards. <hi>Lingua longa</hi> (ſaith) <hi>Margravius (a) quam ta<g ref="char:EOLhyphen"/>men os aperiens &amp; morſum minitans non exſerit, quamvis poſſit, ſed verſus poſteriora attollit.</hi> The <hi>Voice</hi> or Noiſe it made, was a little <hi>Growling.</hi>
+            </p>
+            <p>But meeting, or at leaſt not obſerving any thing far<g ref="char:EOLhyphen"/>ther extraordinary here, we ſhall haſten to the <hi>Abdomen,</hi>
+               <pb n="26" facs="tcp:64883:17"/>where we ſhall find more Matter to excite our Admira<g ref="char:EOLhyphen"/>tion, and pleaſe our Curioſity.</p>
+            <p>The <hi>Abdomen</hi> or <hi>Belly</hi> was divided from the <hi>Thorax</hi> or <hi>Breaſt,</hi> by a large, ſtrong, fleſhy <hi>Diaphragm,</hi> for (as we ſhall obſerve in the <hi>Sceleton</hi>) the <hi>Thorax</hi> near the Throat was ſmall; then gradually, as it deſcendeth, it en<g ref="char:EOLhyphen"/>larges its Capacity; ſo that here, where the <hi>Diaphragm</hi> was faſtened, its Compaſs was very great and large; which might be rendred ſo the more, by reaſon it often hangs by its <hi>Tail;</hi> and when it does ſo, the <hi>Viſcera</hi> in the <hi>Abdomen</hi> can't but preſs upon it. But that they might not too much, to the Injury of the Animal; we ſhall ſee what Proviſion Nature has made for it, by her great Contrivance in ſuſpending the <hi>Inteſtines,</hi>
+            </p>
+            <p>But we muſt obſerve and deſcribe the
+<note n="†" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 1. <hi>B.</hi>
+               </note> 
+               <hi>Stomach,</hi> or <hi>Ventricle,</hi> which was feated under the <hi>Diaphragm,</hi> having part of the <hi>Liver</hi> lying over it; its Figure ſomewhat re<g ref="char:EOLhyphen"/>ſembling the uſual make, inclining to that of an <hi>Half Moon;</hi> as appeared by that Hairy
+<note n="‖" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 2.</note> 
+               <hi>Tophus</hi> we after<g ref="char:EOLhyphen"/>wards took out of it. But what was moſt remarkable was, the Structure and Poſition of the Two <hi>Orifices,</hi> (<hi>viz.</hi> that of the
+<note n="*" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 1. <hi>A.</hi>
+               </note> 
+               <hi>Gula,</hi> that leads into it, and the <hi>Pylo<g ref="char:EOLhyphen"/>rus</hi>
+               <note n="†" place="margin">Ibid. e.</note>, that ſends out) for they were both placed ſo near one another, that they ſeemed to touch or meet; and when I opened the <hi>Stomach,</hi> I found only a very ſlender <hi>Iſthmus,</hi> or <hi>Wall,</hi> parted them. Theſe <hi>Orifices</hi> were not at the Extreams of the <hi>Stomach,</hi> as uſually; but inſerted almoſt in the Middle of the upward Part, but more in<g ref="char:EOLhyphen"/>clining towards that, that reſpects the
+<note n="‖" place="margin">f. f.</note> 
+               <hi>Duodenum.</hi> The pouching or <hi>bagging</hi>
+               <note n="†" place="margin">D D.</note> out at both Extreams, made it ſomewhat reſemble (as I ſaid) an <hi>Half Moon.</hi> The <hi>Stomach</hi> appeared but ſmall, being much contracted, for it had not eaten any thing for ſome Days; it mea<g ref="char:EOLhyphen"/>ſured about Three Inches and an Half in length, and
+<pb n="27" facs="tcp:64883:17"/>about Two Inches in depth: The <hi>Gula</hi> which coveys the Food into the <hi>Stomach,</hi> conſiſted of ſtrong Muſcular Fi<g ref="char:EOLhyphen"/>bres, and was in all about Nine Inches in Length. The <hi>Pylorus,</hi> that carries out, ſeem'd to have its Paſſage free and open, without that <hi>annular</hi> Conſtriction or <hi>Valve,</hi> as in moſt other Animals; though here we obſerved a larger Body of <hi>Muſcular</hi> Fibres, than in the other <hi>Inte<g ref="char:EOLhyphen"/>ſtines;</hi> which made me wonder how a <hi>Regurgitation</hi> of the <hi>Faeces</hi> into the <hi>Stomach</hi> was prevented; but this we will conſider anon.</p>
+            <p>But before we opened the <hi>Stomach,</hi> I obſerved at one Side a <hi>Perforation</hi>
+               <note n="*" place="margin">C.</note> or <hi>Hole</hi> thorough, about the Big<g ref="char:EOLhyphen"/>neſs of an ordinary <hi>Pea,</hi> and <hi>Round.</hi> That it was occa<g ref="char:EOLhyphen"/>ſioned by an <hi>
+                  <g ref="char:V">Ʋ</g>lcer</hi> there, I plainly perceived by the Lips or Edges; which were not freſh, but had an ulcerated <hi>Matter</hi> about them; and this, without doubt, was the Occaſion of its Death; for it had fallen from its Food, and had pined away for ſome time before, and by its un<g ref="char:EOLhyphen"/>eaſy Motion, made its <hi>Keeper</hi> ſuſpect, it had ſwallowed ſomething that ſtuck in its <hi>Throat,</hi> or injured its <hi>Sto<g ref="char:EOLhyphen"/>mach.</hi>
+            </p>
+            <p>A like Accident as this (as a <hi>Perforation</hi> of the <hi>Stomach</hi>) I have Three Times met with in diſſecting <hi>Human Bo<g ref="char:EOLhyphen"/>dies;</hi> and the laſt (being joined with another <hi>Phyſitian</hi> in Conſultation, a little before the <hi>Patient's</hi> Death) I foretold; and upon Diſſection found confirmed. What appears to me, to be moſt likely to be the Cauſe of this <hi>Perforation,</hi> is, that ſome of the <hi>Glands</hi> in the <hi>Stomach</hi> (ſuch as <hi>Payerus</hi>
+               <note n="(qq)" place="bottom">Exercetat. Anat. Med. de Glandulis Inteſtinorum.</note> and Dr. <hi>Grew</hi>
+               <note n="(rr)" place="bottom">Comparative Anatomy of Stomachs and Guts.</note> deſcribes in the Inteſtines) being become <hi>Scrophulous</hi> or <hi>Steatomatous,</hi> might impoſtu<g ref="char:EOLhyphen"/>mate and ſo corrode the Coats of the <hi>Stomach,</hi> and cauſe a
+<pb n="28" facs="tcp:64883:18"/>
+               <hi>Perforation.</hi> And the rather I am of this Opinion, be<g ref="char:EOLhyphen"/>cauſe in thoſe Inſtances I mentioned of <hi>Human</hi> Bodies, I found in other Places of the <hi>Stomach,</hi> theſe <hi>Glands</hi> ve<g ref="char:EOLhyphen"/>ry large and <hi>Steatomatous;</hi> tho' Naturally they are but ſmall, and often not obſerved. Where there is a <hi>Perfo<g ref="char:EOLhyphen"/>ration</hi> of the <hi>Stomach</hi> upon an <hi>Inflammation,</hi> and upon that an <hi>Impoſtumation;</hi> there the <hi>Foramen</hi> is larger and not regular: as remarkably I once met with it in a Child, where a large part of one ſide of the <hi>Stomach</hi> was <hi>Spha<g ref="char:EOLhyphen"/>celated.</hi> So likewiſe upon a <hi>Corroſive Poiſon</hi> taken, its Effects dilates its ſelf more, and is not confined to ſo narrow a Compaſs; as I obſerved once in one who had taken <hi>Rats-bane.</hi>
+            </p>
+            <p>Upon obſerving this <hi>Perforation</hi> of the <hi>Stomach,</hi> I looked to ſee, whether any of its <hi>Contents</hi> had been emptied into the Cavity of the <hi>Abdomen;</hi> but could find little or nothing: Nor indeed, when I came to open the <hi>Stomach,</hi> could I find any thing that could be evacuated that Way; for there was nothing contained in the <hi>Sto<g ref="char:EOLhyphen"/>mach,</hi> but a Body
+<note n="‖" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 4.</note> of <hi>Clotted Hair,</hi> formed into the Shape and Figure of the <hi>Stomach,</hi> ſomewhat like an <hi>Half Moon;</hi> covered with a ſlimy viſcid Subſtance, which did ſerve the better to glue theſe <hi>Hairs</hi> together. Theſe <hi>Hairy Tophi</hi> are frequently to be met with, in the <hi>Sto<g ref="char:EOLhyphen"/>machs</hi> of <hi>Bruits,</hi> and I have had, and ſeen ſeveral, which have been taken out of <hi>Oxen;</hi> and the <hi>Butchers</hi> inform me, that they chiefly meet with them in the <hi>Winter</hi> Sea<g ref="char:EOLhyphen"/>ſon, after the <hi>Hair</hi> begins to ſhed; and the Cattle feed upon Hay and dry Meat: But after the <hi>Spring,</hi> and in <hi>Summer,</hi> they do more ſeldom find them; as if the <hi>New Graſs,</hi> which Purges them, did contribute to diſ<g ref="char:EOLhyphen"/>ſolve theſe <hi>Tophi</hi> likewiſe. <hi>Georg. Hieron. Velſcius</hi> has wrote Two <hi>Medico Philoſophical Diſſertations</hi>
+               <note n="(ſſ)" place="bottom">De Aegagropilis.</note> about
+<pb n="29" facs="tcp:64883:18"/>theſe <hi>Tophi,</hi> that are found in <hi>Goats;</hi> and others has made diſtinct <hi>Treatiſes</hi> thereon; to whom I refer the Curious: and <hi>Gul. Piſo</hi>
+               <note n="(tt)" place="bottom">Hiſt. Nat. &amp; Med. <hi>lib.</hi> 5. <hi>p.</hi> 327.</note> gives a Figure and Deſcrip<g ref="char:EOLhyphen"/>tion of one.</p>
+            <p>But our Animal is <hi>Carnivorous,</hi> and in what all Ac<g ref="char:EOLhyphen"/>counts agree in, moſt <hi>Rapacious</hi> of the <hi>Winged Kind;</hi> and where it can't find its Prey on the <hi>Land,</hi> it will hunt for it in the <hi>Trees;</hi> moſt nimbly climbing them up: and if the tender Bough cannot bear the Weight of its Body on its Feet; by twiſting its <hi>Tail</hi> about the Twig, it can hang thereby, and ſtretch it ſelf the farther, to obtain its deſired Food, or rob a Neſt. Nay, if I am not mis-informed, by this Means it can <hi>Fly,</hi> or paſs from one <hi>Tree</hi> to another, without deſcending down; for thus hanging by its <hi>Tail,</hi> and waving and ſwinging its Body like a <hi>Pendulum,</hi> it can fling it ſelf into the Boughs of a Neighbouring <hi>Tree;</hi> where his Tail is ſure to take faſt hold of the firſt Bough it lights on, if otherwiſe it miſſes his <hi>Footing:</hi> and, as I have ſhewn, his hinder Legs be<g ref="char:EOLhyphen"/>ing made like <hi>Hands,</hi> with a <hi>Thumb,</hi> it can more readi<g ref="char:EOLhyphen"/>ly raiſe its Body up by them.</p>
+            <p>
+               <hi>Noctambulum Animal eſt</hi> (ſaith <hi>de Laet (z) &amp; cum caeteris Avibus, tum Gallinis infeſtiſſimum. Georg. Mar<g ref="char:EOLhyphen"/>grave (a)</hi> ſaith, <hi>Mordax eſt, veſcitur libenter Gallinis, quas rapit, ut Vulpes, &amp; Arbores ſcandendo, avibus in<g ref="char:EOLhyphen"/>ſidiatur, veſcitur quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſacchari cannis, quibus ſuſtentavi per quatuor ſeptimanas in cubiculo meo.</hi> So likewiſe <hi>Gul. Piſo (b) Mordaces ſunt ut Vulpes earum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> more Gallinis &amp; Columnis non ſolùm, ſed Avibus in faſtigiis Arborum in<g ref="char:EOLhyphen"/>ſidiantur; quarum defectu Cannis ſacchareis aliiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> optimis vegetabilibus veſcuntur.</hi> So that they are not only <hi>Car<g ref="char:EOLhyphen"/>nivorous,</hi> but when <hi>need</hi> drives them, they can take up
+<pb n="30" facs="tcp:64883:19"/>with other <hi>Food. Scandit Arbores incredibili pernicita<g ref="char:EOLhyphen"/>te</hi> (ſaith the <hi>Mexican Hiſtory (c) diu in Cavernis latitat, veſcitur Cohortalibus, quas Vulpecularum, Muſtelarum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſylveſtrium more, jugulat, illarum ſanguinem abſorbens.</hi> And afterwards adds, <hi>Vivit enim in Calidis, ac paſcitur Carne, fructibus, Pane, Oleribus, frumentaceis, aliiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> generthus, velati nos experimento cognovimus, alentes il<g ref="char:EOLhyphen"/>lud domi, ac in deliciis habentes.</hi> Which laſt Account ſeems <hi>true;</hi> for this that we diſſected would <hi>eat</hi> any thing, that was brought from the Table.</p>
+            <p>We ſhall now obſerve how the <hi>Food,</hi> when it is recei<g ref="char:EOLhyphen"/>ved into the <hi>Stomach,</hi> and contained there, till 'tis throughly digeſted, is afterwards diſpenſed with the greateſt Advantage, for the Nouriſhment of this Crea<g ref="char:EOLhyphen"/>ture. And what I hinted, how 'tis, that a <hi>Regurgitati<g ref="char:EOLhyphen"/>on</hi> of it into the <hi>Stomach</hi> again, is prevented; eſpecially upon the Poſture 'tis frequently in, when it hangs by its <hi>Tail,</hi> ſince (as I obſerved) the Paſſage at the <hi>Pylorus</hi> is ſo open and <hi>patent.</hi> And for the doing this, we muſt expect <hi>Nature's</hi> Contrivance (which is always admira<g ref="char:EOLhyphen"/>ble) to be great; not confining her ſelf ſtill to the ſame Rules; but is <hi>Infinite</hi> and <hi>All wiſe,</hi> in attaining the ſame <hi>Ends,</hi> with the greateſt <hi>Variety</hi> and <hi>Mechaniſm.</hi>
+            </p>
+            <p>Which leads me to conſider the Structure and Order of the <hi>Inteſtines:</hi> But in doing this, I muſt firſt take No<g ref="char:EOLhyphen"/>tice of the <hi>Meſenterie,</hi> that Membranous Part which col<g ref="char:EOLhyphen"/>ligates them, and fixes their Situation; and gives to them the Order of their Figure. For the <hi>Inteſtines</hi> are not juſt faſtened to the <hi>Peripherie</hi> or outward Circum<g ref="char:EOLhyphen"/>ference of the <hi>Meſenterie;</hi> but the outward Membrane of the <hi>Meſenterie</hi> of both ſides, is entirely projected and continued over the whole <hi>Canalis,</hi> or Duct, of the <hi>Guts;</hi> and is to them the outward or <hi>common Membrane:</hi> So that I have often, by ſeparating this <hi>outward</hi> Membrane, from what lies under it, the <hi>Muſcular;</hi> I have extracted
+<pb n="31" facs="tcp:64883:19"/>the whole length of the <hi>Guts;</hi> leaving only the <hi>Common</hi> Membrane, as 'tis continued from that of the <hi>Meſente<g ref="char:EOLhyphen"/>rie;</hi> which I could inflate, as if the whole of the <hi>Guts</hi> re<g ref="char:EOLhyphen"/>mained.</p>
+            <p>Now here we obſerved that remarkable Difference, from what is in many other Animals; that we can't but make Two <hi>Meſenteries; one</hi> peculiar to the <hi>ſmall</hi> Guts, the <hi>other</hi> belonging to the <hi>great</hi> ones, or <hi>Inteſtina Craſ<g ref="char:EOLhyphen"/>ſa,</hi> as they are called; for tho' continued to one another, yet the difference in their Figure or <hi>Bulk,</hi> is ſo much, that fully juſtifies the Diſtinction. And for Diſtinction ſake, I ſhall call the former <hi>Meſenterium
+<note n="*" place="margin">
+                     <hi>Tab.</hi> 2. <hi>Fig.</hi> 1. <hi>u.</hi>
+                  </note> minorum,</hi> and the latter <hi>Meſenterium
+<note n="†" place="margin">w.</note> Majorum,</hi> ſc. <hi>Inteſtinorum:</hi> for <hi>minora</hi> and <hi>majora</hi> I think more expreſſive, than <hi>tenuia</hi> and <hi>craſſa;</hi> at leaſt it appeared ſo in our preſent Subject.</p>
+            <p>For here I remarked, that as the
+<note n="‖" place="margin">f. f.</note> 
+               <hi>Duodenum</hi> deſcended from the <hi>Stomach,</hi> it ran under the
+<note n="†" place="margin">ſ.</note> 
+               <hi>Colon,</hi> (juſt where 'tis joined to the <hi>Caecum</hi>
+               <note n="*" place="margin">r.</note>) towards the Middle of the <hi>Spine.</hi> Hence I found a Projection of the firſt <hi>Meſen<g ref="char:EOLhyphen"/>terie</hi>
+               <note n="‖" place="margin">w.</note> into a <hi>Spiral</hi> Line, like a <hi>Cochlea</hi> or winding Pair of Stairs: So that upon Inſlation, theſe <hi>Inteſtines</hi> here, made ſeveral <hi>Convolutions,</hi> or <hi>Windings,</hi> tho' not exactly <hi>Spiral,</hi> but as repreſented in our <hi>Figure;</hi> and the better to ſhew the Currency of their <hi>Canalis</hi> here, and how thoſe <hi>Gyrations</hi> follow each other; I have ſignified it by the Order of the Letters of the <hi>Alphabet;</hi> ſo that <hi>(g)</hi> is ſucceeded by <hi>(h)</hi> and <hi>(h)</hi> by <hi>(i)</hi> and ſo on: Not that I could repreſent the whole in this <hi>Figure;</hi> for ſome of theſe <hi>Gyri,</hi> at leaſt great parts of them, lay dipt and hid<g ref="char:EOLhyphen"/>den by others, that lay over them.</p>
+            <p>The Second <hi>Meſenterie</hi>
+               <note n="†" place="margin">w.</note>, or <hi>Meſenterium majorum,</hi> as I chooſe rather to call it, than <hi>Meſocolon</hi> (for it did be<g ref="char:EOLhyphen"/>long likewiſe to the <hi>Caecum</hi>
+               <note n="‖" place="margin">r. r.</note> and
+<note n="*" place="margin">t.</note> 
+               <hi>Rectum,</hi> as well as the <hi>Colon</hi>
+               <note n="†" place="margin">ſ. ſ. ſ.</note>) was projected more in a <hi>Plain;</hi> and made al<g ref="char:EOLhyphen"/>moſt
+<pb n="32" facs="tcp:64883:20"/>a <hi>Circular</hi> Figure at its <hi>Peripherie;</hi> ſo that the <hi>Cae<g ref="char:EOLhyphen"/>cum,</hi> and <hi>Colon</hi> did almoſt entirely encircle the <hi>ſmall Guts.</hi>
+            </p>
+            <p>The <hi>ſmall Guts</hi> (as here inſlated) meaſured about Six Feet and an half in length. The <hi>Caecum</hi> was about Six Inches long; and the <hi>Colon</hi> and <hi>Rectum</hi> Two Foot long. The Girth of the <hi>Duodenum</hi> (I mean all along here, as inflated) was Three Inches; the <hi>Ileon</hi>
+               <note n="‖" place="margin">q.</note> Two In<g ref="char:EOLhyphen"/>ches and an Half; the Girth of the <hi>Caecum,</hi> in the largeſt Place, was Six Inches; of the <hi>Colon</hi> Four Inches; and the <hi>Rectum</hi> was Three Inches about. from the <hi>Spine</hi> to the utmoſt Projection of the <hi>ſmall Guts,</hi> under the ſame Circumſtance of <hi>Inflation,</hi> meaſured about Six Inches; the greateſt <hi>Diameter</hi> that the <hi>Colon</hi> in this Circular Fi<g ref="char:EOLhyphen"/>gure made, was ſomewhat above Seven Inches.</p>
+            <p>In the whole <hi>Duct</hi> or <hi>Canalis</hi> of the <hi>Inteſtines,</hi> I could not obſerve any <hi>Valves;</hi> no not at the <hi>Caecum</hi> its ſelf. 'Tis true, that the <hi>Foramen</hi> into the <hi>Caecum,</hi> was a great deal leſs than the Capacity of the <hi>Gut</hi> its ſelf; howe<g ref="char:EOLhyphen"/>ver, the Paſſage into it was ſo <hi>open</hi> and <hi>wide,</hi> as readily to receive or emit its Contents. For by pouring a large Quantity of Water into the <hi>Stomach,</hi> ſo as to waſh out the <hi>Faeces</hi> contained in the <hi>Inteſtines;</hi> I found, that it would firſt run into the <hi>Caecum,</hi> if it was not filled before, and then into the <hi>Colon,</hi> and as readily, upon elevating the <hi>Colon,</hi> it would paſs thence, firſt into the <hi>Caecum;</hi> and, when that was filled, into the <hi>Ileon.</hi>
+            </p>
+            <p>Paſſing by other <hi>Remarks</hi> which I might make upon the <hi>Glands</hi> in the Inward Coat of the <hi>Inteſtines,</hi> upon the <hi>Blood-Veſſels</hi> in the <hi>Meſenteries, &amp;c.</hi> I ſhall now proceed to give my Thoughts upon the whole Structure and Fi<g ref="char:EOLhyphen"/>gure of the <hi>Inteſtines,</hi> and how advantageouſly they are contrived for the <hi>
+                  <g ref="char:V">Ʋ</g>ſes</hi> deſigned them by Nature.</p>
+            <pb n="33" facs="tcp:64883:20"/>
+            <p>For <hi>First,</hi> by means of theſe frequent <hi>Gyrations</hi> and win<g ref="char:EOLhyphen"/>dings of the <hi>Inteſtines,</hi> there is a greater Opportunity gi<g ref="char:EOLhyphen"/>ven to the <hi>Separation</hi> of the <hi>Chyle</hi> into the <hi>Vaſa Chylife<g ref="char:EOLhyphen"/>ra;</hi> for the <hi>Bore</hi> of the <hi>Inteſtines</hi> being ſo large (as I have ſhewn) and there being no <hi>Valves</hi> in all their length; if there was not this Contrivance to give a <hi>Lett,</hi> or <hi>Re<g ref="char:EOLhyphen"/>mora</hi> to the haſty Deſcent of the <hi>Faeces,</hi> they would paſs off ſo nimbly, that with them a great part of the <hi>Chymous</hi> Subſtance likewiſe, would be carried off: But the Length of the <hi>Inteſtines</hi> here, being ſo great; and as they run, making ſo many <hi>Convolutions,</hi> they do prevent this Danger.</p>
+            <p>
+               <hi>Secondly,</hi> By means of this <hi>Cochlea,</hi> or <hi>Spiral</hi> Figure of the <hi>firſt Meſenterie,</hi> to which the <hi>ſmall</hi> Guts are affix<g ref="char:EOLhyphen"/>ed, there may be prevented a <hi>Regurgitation</hi> of the Con<g ref="char:EOLhyphen"/>tents of the <hi>Inteſtines</hi> again into the Stomach, upon a Declivity of the Body of this Animal, as it is frequent<g ref="char:EOLhyphen"/>ly in, when it hangs by its <hi>Tail.</hi> For tho', as I obſer<g ref="char:EOLhyphen"/>ved, the <hi>Paſſage</hi> from the <hi>Stomach,</hi> by the <hi>Pylorus,</hi> into the <hi>Duodenum,</hi> is large and open; yet in this Poſture of the Body, there can't but be a <hi>Reduplication,</hi> or folding over of the <hi>Duodenum;</hi> ſince the great <hi>Bulk</hi> or Wallet of theſe <hi>Inteſtines</hi> muſt incline and ſwag towards the <hi>Diaphragm;</hi> by which <hi>Reduplication,</hi> the <hi>Paſſage</hi> at the <hi>Pylorus</hi> muſt, in a great meaſure, be occluded; and the <hi>aſcent</hi> of the Contents now, be altogether as difficult and great, as when the Animal ſtands upon its Four Feet.</p>
+            <p>The <hi>Reverſe</hi> of this Structure of the <hi>Inteſtines</hi> I found and have deſcribed in my Anatomy <hi>(cc)</hi> of the <hi>Tajacu,</hi> or the <hi>Mexico</hi> Musk <hi>Hog:</hi> for here the <hi>Colon</hi> made a <hi>Spiral</hi> Figure (as I have there repreſented, in <hi>Tab.</hi> 1. <hi>Fig.</hi> 5.) and the <hi>ſmall Guts</hi> made a Plain. In our <hi>Poſſum</hi> the <hi>ſmall Guts</hi> makes a <hi>Spiral,</hi> and the <hi>Colon</hi> and <hi>great Guts</hi> a Plain. But a <hi>Spiral Convolution</hi> of the <hi>Inteſtines</hi>
+               <pb n="34" facs="tcp:64883:21"/>is to be met with in ſeveral Animals, tho' their Structure be different; as in the <hi>Goat</hi> and <hi>Deer-Kind;</hi> and very remarkably in a <hi>Woodcock.</hi>
+            </p>
+            <p>But we will have done with the <hi>Guts,</hi> to proceed to other <hi>Parts;</hi> for their <hi>Comparative Anatomy</hi> is too large a Field, and would be too great a <hi>Digreſſion,</hi> to engage in the Deſcription of them in a <hi>ſingle</hi> Subject.</p>
+            <p>The <hi>Pancreas</hi> was large, having one part (if I mis-re<g ref="char:EOLhyphen"/>member not) running towards the <hi>Spleen,</hi> and the other down by the <hi>Duodenum.</hi>
+            </p>
+            <p>The <hi>Spleen</hi> was Two Inches and half long, and One Inch in the broadeſt Part, and was of a dark Red Colour.</p>
+            <p>The <hi>Liver</hi> in this Animal was very large, of a bright Red Colour, conſiſting of Three <hi>Lobes</hi>
+               <note n="†" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 5. <hi>B B B.</hi>
+               </note>; Two of them were much larger than the third, which lay out of ſight, and was not to be ſeen, but upon inverting the <hi>Liver:</hi> and here we found not only at the Edges of one of the larger <hi>Lobes,</hi> deep <hi>Inciſures</hi>
+               <note n="*" place="margin">e e e</note>, which rendered it jagged; but alſo in the middle of the <hi>Concave</hi> part of the ſame <hi>Lobe,</hi> ſeveral deep <hi>Fiſſures</hi>
+               <note n="†" place="margin">d d d.</note>: Poſſibly for this Reaſon, that ſo it might yield and give way the better when 'tis inverted, as 'tis always, when this Animal hangs by its <hi>Tail.</hi> The <hi>Bladder</hi>
+               <note n="*" place="margin">C.</note> of <hi>Gall</hi> here was very large. The Situation of the <hi>Liver</hi> and <hi>Spleen</hi> here, appeared as in other Animals.</p>
+            <p>In the <hi>
+                  <g ref="char:V">Ʋ</g>rinary Parts</hi> I did not obſerve any thing pe<g ref="char:EOLhyphen"/>culiar or different from the uſual Structure, unleſs what we ſhall remarke of the <hi>Bladder</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>rine.</hi> The <hi>Kidneys</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 2. <hi>AA.</hi>
+               </note> of each ſide were a little above an Inch and half long, about three quarters of an Inch broad, and of the Figure almoſt of a Kidney-Bean. The <hi>Emulgent</hi>
+               <note n="†" place="margin">b b.</note> Veins and Arte<g ref="char:EOLhyphen"/>ries
+<note n="*" place="margin">c c.</note> were very plainly ſeen: But on the inſide of the <hi>Kid<g ref="char:EOLhyphen"/>neys,</hi> towards the upper Part, were placed the <hi>Glandulae Renales</hi>
+               <note n="‖" place="margin">D D.</note>, or <hi>Renes Succenturiati,</hi> as they are called by
+<pb n="35" facs="tcp:64883:21"/>ſome, and which were here very large, and of the ſame Colour with the <hi>Kidneys</hi> themſelves, which was a deep Red; whereas theſe <hi>Glandulae Renales</hi> in <hi>Men</hi> and other <hi>Animals,</hi> are uſually of a White, Yellowiſh Colour. The <hi>
+                  <g ref="char:V">Ʋ</g>reters</hi>
+               <note n="*" place="margin">e e.</note> were about five Inches and an half long, and were inſerted into the Neck of the <hi>Bladder</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> as is repreſented
+<note n="‖" place="margin">f.</note>, firſt running under, then aſcending up by the two Extreams of each <hi>
+                  <g ref="char:V">Ʋ</g>terus,</hi> as they lie du<g ref="char:EOLhyphen"/>plicated. The <hi>Bladder</hi>
+               <note n="†" place="margin">G.</note> of <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> being inflated, was about the Bigneſs of a Hen's Egg and of that Figure. The Neck of the <hi>Bladder,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>rethra</hi>
+               <note n="*" place="margin">h.</note>, (which was about an Inch long) lay over the <hi>Vaginae <g ref="char:V">Ʋ</g>teri</hi>
+               <note n="†" place="margin">i i.</note>; and here the <hi>
+                  <g ref="char:V">Ʋ</g>rethra</hi> and the <hi>Vaginae <g ref="char:V">Ʋ</g>teri</hi> emptied themſelves into one <hi>common Canalis</hi>
+               <note n="*" place="margin">K.</note> or <hi>Paſſage,</hi> which meaſured about an Inch and half in length.</p>
+            <p>In moſt Animals, about the <hi>Kidneys</hi> there uſes to be obſerved a large Body of <hi>Fat</hi> covering them, being con<g ref="char:EOLhyphen"/>tained in the <hi>Membrana Adipoſa:</hi> But here we found four large protuberant <hi>Lumps</hi> of <hi>Fat,</hi> two of each ſide; two of them lying in the <hi>Pelvis</hi> of the <hi>Abdomen,</hi> near the <hi>Bladder</hi> of Urine, and the <hi>
+                  <g ref="char:V">Ʋ</g>terine</hi> Parts; and the two others, between them and the <hi>Kidneys.</hi> Upon Exa<g ref="char:EOLhyphen"/>mination, I found that they conſiſted of regular large <hi>La<g ref="char:EOLhyphen"/>minae;</hi> which were eaſily ſeparable from one another, in broad Fleaks; ſo as I have not obſerved before; and in<g ref="char:EOLhyphen"/>deed, before I had examined theſe Lumps of <hi>Fat,</hi> I could not tell well what to make of them; and I am apt to think, that theſe Two Bodies of <hi>Fat,</hi> near the <hi>
+                  <g ref="char:V">Ʋ</g>terus</hi> are, what <hi>Margrave (a)</hi> and <hi>Piſo (b)</hi> calls, <hi>Teſtes ſub Ano interiùs jacentes;</hi> for, as I ſhall ſhew from them<g ref="char:EOLhyphen"/>ſelves, in the <hi>Male,</hi> the <hi>Teſtes</hi> are otherwiſe placed.</p>
+            <p>We ſhall proceed now to the Examination of the <hi>
+                  <g ref="char:V">Ʋ</g>te<g ref="char:EOLhyphen"/>rine Parts:</hi> For 'tis ſo far from <hi>Truth,</hi> what is aſſerted by ſome, that it has no <hi>
+                  <g ref="char:V">Ʋ</g>terus</hi> within, that here we find not only one, but two <hi>
+                  <g ref="char:V">Ʋ</g>teri;</hi> and theſe too moſt
+<pb n="36" facs="tcp:64883:22"/>wonderfully contrived, and far different from the com<g ref="char:EOLhyphen"/>mon Structure and Make of this <hi>Part,</hi> in other Animals. And the more too I wonder at this Miſtake, ſince they pretended to have diſſected them; for ſo <hi>Margrave (a), Haec Burſa</hi> (ſpeaking of the <hi>Marſupium</hi> or <hi>Pouch) ipſe <g ref="char:V">Ʋ</g>terus eſt Animalis; nam alium non habet, uti ex ſectio<g ref="char:EOLhyphen"/>ne illius Comperi; in hac ſemen concipitur &amp; catuli forman<g ref="char:EOLhyphen"/>tur.</hi> And ſo <hi>Piſo (b). Ex reiteratis horum Animalium Sectionibus, alium non invenimus <g ref="char:V">Ʋ</g>terum praeter hanc Burſam; in qua ſemen concipitur &amp; Catuli formantur.</hi> But notwithſtanding what they talk of their <hi>diſſecting</hi> them, there is not one Obſervation (as I know) of any one of the inward <hi>Parts,</hi> that they have given us. <hi>Hernan<g ref="char:EOLhyphen"/>dez (c)</hi> is more in the Right (and indeed his <hi>Account</hi> is much more to be valued, and more faithful in the whole, than any of the others) where he tells us, <hi>Quaternos, quinoſve parit Catulos, quos utero conceptos, editoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in Lu<g ref="char:EOLhyphen"/>cem, Alvi capacitate quadam, dum adhuc parvuli ſunt, claudit &amp; ſervat.</hi> We will therefore here take a Survey, and an Account of theſe <hi>Parts;</hi> and we find, that there are two <hi>Ovaria,</hi> two <hi>Tubae Fallopianae,</hi> two <hi>Cornua <g ref="char:V">Ʋ</g>teri,</hi> two <hi>
+                  <g ref="char:V">Ʋ</g>teri,</hi> and two <hi>Vaginae <g ref="char:V">Ʋ</g>teri.</hi>
+            </p>
+            <p>The <hi>Ovaria</hi>
+               <note n="‖" place="margin">ſ ſ.</note> were placed one of each ſide, near the Extreams of the <hi>Cornua <g ref="char:V">Ʋ</g>teri,</hi> being faſtened to the <hi>Alae
+<note n="*" place="margin">r r r.</note> 
+                  <g ref="char:V">Ʋ</g>teri,</hi> and were about the Bigneſs of a <hi>Velch.</hi> The <hi>Va<g ref="char:EOLhyphen"/>ſa Praeparantia</hi> (the <hi>Arterie</hi>
+               <note n="†" place="margin">n n n.</note> and the <hi>Venie</hi>
+               <note n="‖" place="margin">o o o o.</note> that did go to and from them) were very plain, and as I have repre<g ref="char:EOLhyphen"/>ſented them; though the greateſt part of theſe <hi>Veſſels</hi> were beſtowed upon the <hi>Cornua <g ref="char:V">Ʋ</g>teri.</hi> Near the <hi>Ovaria,</hi> I obſerved the <hi>Fimbriae
+<note n="‖" place="margin">
+                     <hi>Tab.</hi> 2. <hi>Fig.</hi> 3. <hi>b. b.</hi>
+                  </note> Foliaceae,</hi> and thence a Paſſage into the <hi>Tubae Fallopianae</hi>
+               <note n="*" place="margin">
+                  <hi>Fig.</hi> 3. <hi>c c. Fig.</hi> 2. <hi>t t.</hi>
+               </note>. The <hi>Tubae Fallopianae</hi> were two fine ſlender <hi>Canales</hi> or <hi>Ducts,</hi> ſupported by the <hi>Alae <g ref="char:V">Ʋ</g>teri,</hi> and running waving, and led into the Extreams of the <hi>Cornua <g ref="char:V">Ʋ</g>teri.</hi> The <hi>Cornua
+<note n="†" place="margin">
+                     <hi>Fig.</hi> 3. <hi>d d. Fig.</hi> 2. <hi>u u. w.</hi>
+                  </note> 
+                  <g ref="char:V">Ʋ</g>teri,</hi> being infla<g ref="char:EOLhyphen"/>ted, were about the Bigneſs of a Gooſe Quill, about an
+<pb n="37" facs="tcp:64883:22"/>Inch and half long, and were faſtened to the <hi>Alae <g ref="char:V">Ʋ</g>teri,</hi> towards both Ends a little crooked, but where they paſs into the <hi>
+                  <g ref="char:V">Ʋ</g>teri,</hi> they were reflected inwards; at the other Extream reflected outwards. Their Subſtance ſeem<g ref="char:EOLhyphen"/>ed rather thicker than the <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> themſelves, and not ſo tranſparent, by reaſon of the numerous <hi>Blood-Veſſels</hi> which irrigated them almoſt all over; for in the inſide, both above and under, there ran the whole length of the <hi>Cornua,</hi> large Trunks of <hi>Blood-Veſſels,</hi> ſending from the Sides all along numerous Branches; which is very requi<g ref="char:EOLhyphen"/>ſite: For in Animals that are <hi>Multiparous,</hi> as is our Sub<g ref="char:EOLhyphen"/>ject, the <hi>Litter</hi> or <hi>Faetus</hi> do lie, and are formed in the <hi>Cornua <g ref="char:V">Ʋ</g>teri.</hi> And I did here take Notice of ſome lit<g ref="char:EOLhyphen"/>tle Riſings of the inward Membrane of the <hi>Cornua,</hi> whereby they were ſomewhat divided into <hi>Cells;</hi> but very imperfectly: However, for the Nouriſhment and Formation of the <hi>Embrio's</hi> here, ſo great a Number of <hi>Blood-Veſſels</hi> is highly neceſſary; and they were far more numerous here, than in the <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> themſelves. It has Four or Five <hi>Young</hi> Ones at a time, ſaith <hi>Hernandez (c). Piſo (b)</hi> and <hi>Joh. Stadius</hi> ſaith, Five or Six. That which <hi>Margrave (a)</hi> obſerved, had Six. <hi>Ralph Ha<g ref="char:EOLhyphen"/>mor (l)</hi> and <hi>Cardan</hi> ſays, it has Seven. So <hi>Joh. de Laet</hi> ſaith Six or Seven. But <hi>Jul. Caeſ. Scaliger (r)</hi> out-rec<g ref="char:EOLhyphen"/>kons them all; for he ſaith, <hi>Faecundiſſima eſt, duodenos parit exiguos:</hi> But this Account I do ſuſpect.</p>
+            <p>Theſe Two <hi>Cornua</hi> do empty themſelves into the Two <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi>
+               <note n="*" place="margin">
+                  <hi>Fig.</hi> 3. <hi>e e. Fig.</hi> 2. <hi>x x.</hi>
+               </note>, juſt in the Middle, where they are con<g ref="char:EOLhyphen"/>joined together; and ſo outwardly ſeem to form, but as it were, one continued Body
+<note n="†" place="margin">
+                  <hi>Fig.</hi> 3. <hi>e e.</hi>
+               </note>; from this Conjunction, near the Neck of the <hi>Bladder,</hi> extending themſelves on each ſide, and afterwards, being reflected to the Neck of the <hi>Bladder</hi> again, where they paſs into the <hi>Vaginae <g ref="char:V">Ʋ</g>teri.</hi> But having extended this Part by Inſlation, and ſo letting it dry, and then diſſecting it; I obſerved a
+<pb n="38" facs="tcp:64883:23"/>
+               <hi>Membrane</hi>
+               <note n="‖" place="margin">
+                  <hi>Fig.</hi> 2. <hi>y.</hi>
+               </note> like a <hi>Diaphragm,</hi> perfectly to run croſs, and intirely to divide them, near the inſertion of the <hi>Cornua,</hi> into two diſtinct Bodies; ſo that what is contained in the <hi>
+                  <g ref="char:V">Ʋ</g>terus</hi> on the Right Side, can't paſs into the <hi>
+                  <g ref="char:V">Ʋ</g>terus</hi> on the Left Side, by means of this <hi>Partition</hi> Wall; tho' out<g ref="char:EOLhyphen"/>wardly (as I ſaid) they both ſeemed, but as one conti<g ref="char:EOLhyphen"/>nued Body.</p>
+            <p>I muſt confeſs, the Fabrick of this <hi>Part,</hi> ſeemed very ſurpriſing to me; and ſuch as I have not met with a <hi>Pa<g ref="char:EOLhyphen"/>rallel,</hi> or the like, in any <hi>Animal</hi> beſides; at leaſt of the <hi>Quadrupede</hi> Kind. 'Tis true, in <hi>Lobſters</hi> and <hi>Crabs,</hi> in the <hi>Female</hi> there are two <hi>
+                  <g ref="char:V">Ʋ</g>teri,</hi> as in the <hi>Male</hi> there are two <hi>Penes,</hi> but more diſtinct and ſeparated from one another. So two <hi>Penes,</hi> and each forked too, I have obſerved in the <hi>Rattle-Snake</hi>
+               <note n="(uu)" place="bottom">Philoſoph. Tranfact. <hi>No.</hi> 144.</note>; but how the <hi>Male Poſſum</hi> is provided, I cannot tell: But this I think is the <hi>only Inſtance</hi> of a <hi>Land Quadrupede,</hi> that has two <hi>
+                  <g ref="char:V">Ʋ</g>teri;</hi> and each of theſe too, ſeemingly <hi>double,</hi> by that Refle<g ref="char:EOLhyphen"/>ction they make, and by an imperfect <hi>Diaphragm,</hi> which divides the Cavity of each <hi>
+                  <g ref="char:V">Ʋ</g>terus</hi> a conſiderable way, as we ſhall ſhew.</p>
+            <p>Theſe <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> are not faſtened to the <hi>Alae,</hi> as are the <hi>Ovaria, Tubae</hi> and <hi>Cornua;</hi> but where they are conjoin'd near the Inſertion of the <hi>Cornua,</hi> they do adhere very firmly to the Neck
+<note n="*" place="margin">
+                  <hi>Fig.</hi> 3. <hi>l l.</hi>
+               </note> of the <hi>Bladder,</hi> not eaſily to be ſe<g ref="char:EOLhyphen"/>parated thence; and by Membranes to the <hi>Rectum;</hi> where more ſeparable. So that the Neck of the <hi>Blad<g ref="char:EOLhyphen"/>der</hi> lies over that <hi>Diaphragm</hi> or Membrane which parted them (as I ſaid) into two diſtinct <hi>
+                  <g ref="char:V">Ʋ</g>teri.</hi> Here the Bo<g ref="char:EOLhyphen"/>dy of the <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> ſeemed to be about the Bigneſs of the End of my Finger; or in Compaſs (thus inflated) it meaſured about an Inch and three quarters: Hence they
+<pb n="39" facs="tcp:64883:23"/>were projected towards each ſide, and not according to the Length of the <hi>Spine,</hi> gradually inlarging the inward Cavity, as 'tis extended. For here about the <hi>Angle</hi> of <hi>Reflection,</hi> it meaſured in Compaſs two Inches and an Half. The <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> being thus extended towards each ſide about the Space of an Inch and three quarters; and then reflected
+<note n="†" place="margin">
+                  <hi>Fig.</hi> 3. <hi>e e.</hi>
+               </note> back again, towards the Neck of the <hi>Bladder;</hi> and ſo paſs into the two <hi>Vaginae</hi>
+               <note n="‖" place="margin">
+                  <hi>Fig.</hi> 2. <hi>i i.</hi>
+               </note>, which lies under the <hi>
+                  <g ref="char:V">Ʋ</g>rethra</hi>
+               <note n="*" place="margin">h.</note>. From this <hi>Angle</hi> of <hi>Reflection,</hi> the Cavity of each <hi>
+                  <g ref="char:V">Ʋ</g>terus</hi> gradually leſſens, and is much ſmaller than the other part of the <hi>
+                  <g ref="char:V">Ʋ</g>terus.</hi> The Capacity of each <hi>
+                  <g ref="char:V">Ʋ</g>te<g ref="char:EOLhyphen"/>rus</hi> being the largeſt at the outward Elbow, where it be<g ref="char:EOLhyphen"/>gins to be reflected; for here it made, as 'twere, one <hi>Common</hi> Cavity, for almoſt the length of an Inch: But on the inſide, I obſerved a <hi>Membrane</hi>
+               <note n="†" place="margin">z.</note> to be projected from the internal ſide of the <hi>
+                  <g ref="char:V">Ʋ</g>teri,</hi> juſt from the Corner where the ſides of the <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> are doubled, whereby this Cavity is in part divided; and for this Reaſon, ſhall call this <hi>Membrane,</hi> the <hi>Second,</hi> or an imperfect <hi>Diaphragm</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>teri.</hi>
+            </p>
+            <p>Here in theſe <hi>
+                  <g ref="char:V">Ʋ</g>teri,</hi> I obſerved Four large Trunks of <hi>Blood-Veſſels,</hi> which did run the whole length of them, ſending from their ſides numerous Branches, and Ramifi<g ref="char:EOLhyphen"/>cations all along. Theſe Trunks were propagated from the <hi>Hypogaſtrick</hi>
+               <note n="‖" place="margin">p p p.</note> and <hi>Spermatic</hi>
+               <note n="*" place="margin">n n n. o o o.</note> Veſſels. I did alſo here obſerve in theſe <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> (thus by Inflation extended and dried) ſeveral <hi>Faſciculi</hi> of <hi>Muſcular</hi> Fibres, placed at a regular Diſtance from one another; which did run the whole Length of the <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> likewiſe: by means of whoſe Contraction, the <hi>Faetus</hi> may be more eaſily forced out.</p>
+            <p>Theſe two <hi>
+                  <g ref="char:V">Ʋ</g>teri</hi> (as I mentioned) empty themſelves into the two <hi>Vaginae</hi>
+               <note n="†" place="margin">
+                  <hi>i i. Fig.</hi> 3. <hi>f.</hi>
+               </note>; for at this Extream, the <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>teri,</hi> making a turn at the Neck of the <hi>Bladder,</hi> are con<g ref="char:EOLhyphen"/>tinued thence into the two <hi>Vaginae,</hi> which lie juſt under
+<pb n="40" facs="tcp:64883:24"/>the <hi>
+                  <g ref="char:V">Ʋ</g>rethra</hi>
+               <note n="*" place="margin">
+                  <hi>Fig.</hi> 2. <hi>h.</hi>
+               </note>, or that <hi>Paſſage</hi> or Pipe which conveys the <hi>
+                  <g ref="char:V">Ʋ</g>rine</hi> from the <hi>Bladder,</hi> and are much of the ſame Length with that of the <hi>
+                  <g ref="char:V">Ʋ</g>rethra,</hi> which was about an Inch. Their Capacity was about the Bigneſs of a Wheat-Straw. Both theſe <hi>Vaginae</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rethra</hi> too, emptied themſelves into a <hi>Common Paſſage</hi>
+               <note n="‖" place="margin">K.</note>, or <hi>Canalis,</hi> which was as large as all the other Three; and about an Inch and half long: it looked Rediſh, by means of the numerous <hi>Blood-Veſſels</hi> it enjoyed, and at laſt had its <hi>Exit</hi> ſo near the <hi>Fundament,</hi> that when alive, there was not obſerved any other <hi>Foramen</hi> outwardly, but that which led into the <hi>Rectum.</hi> But when I came to diſſect it, by elevating the <hi>Skin</hi> here, which ſeemed to cover it, like a <hi>Valve;</hi> I obſerved the <hi>Foramen</hi> that led into this <hi>Common Paſſage,</hi> and putting a <hi>Blow-pipe</hi> into it, at the ſame time, by In<g ref="char:EOLhyphen"/>flation I extended the <hi>Bladder</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>terine</hi> Parts too; <hi>viz.</hi> The <hi>Vaginae,</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>teri,</hi> and the <hi>Cornua.</hi> So that in the <hi>Skin</hi> here, there was only one <hi>Foramen</hi>
+               <note n="†" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 3. <hi>C.</hi>
+               </note> for the <hi>Exit</hi> of the <hi>Faeces,</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>rine</hi> and the <hi>Faetus</hi> too.</p>
+            <p>I have had no Opportunity of diſſecting a <hi>Male Poſ<g ref="char:EOLhyphen"/>ſum;</hi> and indeed, of none other but this <hi>ſingle</hi> Subject: For had I, I might have been more exact in ſome Parti<g ref="char:EOLhyphen"/>culars; nor is it almoſt poſſible, to obſerve all in <hi>One.</hi>
+            </p>
+            <p>The Account they give of the <hi>Male,</hi> is but very im<g ref="char:EOLhyphen"/>perfect and ſhort: <hi>Mas Faeminae per omnia ſimilis, benè teſticulatus,</hi> ſaith <hi>Margrave (a) In Burſa pendulos Teſtes, more Gati, gerens.</hi> And much the ſame, ſaith <hi>Piſo (b), Mas Faemellae planè ſimilis, in Burſa pendulos, more Gati, teſticulos fert:</hi> But adds, <hi>Et quod notatu dignum, Manti<g ref="char:EOLhyphen"/>cam (licet à Faemellae diverſam) habet quâ alternatis vi<g ref="char:EOLhyphen"/>cibus Catulos quoque circumfert.</hi> I could wiſh he had gi<g ref="char:EOLhyphen"/>ven us, wherein 'twas different; and what kind of <hi>Penis</hi> the <hi>Male</hi> had.</p>
+            <pb n="41" facs="tcp:64883:24"/>
+            <p>The Ingenious and moſt Learned Mr. <hi>Ray (o) Queries,</hi> Whether the <hi>Tai-ibi</hi> of <hi>Braſile,</hi> deſcribed by <hi>Mar<g ref="char:EOLhyphen"/>grave (a);</hi> differs from our Subject, the <hi>Poſſum,</hi> only in Sex? Or, Whether 'tis another <hi>Species</hi> of Animal? And indeed, by a Paſſage in his Deſcription of it, one would think, that <hi>Margrave</hi> did take the <hi>Tai-ibi</hi> to be only the <hi>Male.</hi> I will tranſcribe the whole <hi>Paragraph,</hi> it not be<g ref="char:EOLhyphen"/>ing very long, that every one may have the Liberty of making their own Conjectures. Tai-ibi <hi>Braſilienſibus,</hi> (ſaith he) <hi>Luſitanis</hi> Chachorro do mato, <hi>Belgis</hi> een Boſchratte: <hi>Animal corpore tereti &amp; oblongo. Totius corporis cum collo longitudo ab occipitio ad caudae initium quatuordecim digi<g ref="char:EOLhyphen"/>torum, craſſities decem. Caput habet vulpino aemulum, ore acuto, barba felina: oculos conſpicuos &amp; prominentes, ni<g ref="char:EOLhyphen"/>gros: aures ſubrotundas, molles, graciles, albas, teneras ut charta mollis. Crura, pedes &amp; digitos cum unguibus habet ut foemella jam deſcripta, uti &amp; caudam. Totum corpus veſtitum eſt pilis albis ſplendentibus, qui in extre<g ref="char:EOLhyphen"/>mitatibus nigricant, &amp; magis quidem in dorſo, maxime tamen in cruribus: circa anum &amp; initium caudae pene ni<g ref="char:EOLhyphen"/>gricant. Os &amp; aures albicant. Cauda in exortu ad quinque digitorum longitudinem pilis veſtitur albis in extremitate nigricantibus, reliqua pars major ad finem uſque cincta eſt corio tenui ſquamoſo albicante inſtar exuviarum ſerpentis. Faetet graviter, caro tamen illius comeditur. Victitat libenter gallinis, ut vulpes. Pili inſerti ſunt tenui cuti<g ref="char:EOLhyphen"/>culae, quae detrahi poteſt ſalvo manente corio craſſiori. Te<g ref="char:EOLhyphen"/>ſticulos propendentes habet ut felis mas.</hi> Had <hi>Margrave</hi> mentioned in his Deſcription, the <hi>Marſupium</hi> or <hi>Pouch,</hi> it had been more clear; but by the Account he gives, one cannot but think, that he makes the <hi>Carigueya,</hi> the <hi>Female,</hi> and the <hi>Tai-ibi</hi> the <hi>Male</hi> of the ſame <hi>Species</hi> of Animal. As they eat the <hi>Tai-ibi,</hi> ſo <hi>Ralph Hamor (l)</hi> tells us, that he has eaten the <hi>Poſſum,</hi> and that 'tis a grateful and wholeſom <hi>Food.</hi>
+            </p>
+            <pb n="42" facs="tcp:64883:25"/>
+            <p>
+               <hi>Paſo (b)</hi> having concluded his Deſcription of the <hi>Ca<g ref="char:EOLhyphen"/>rigueya,</hi> adds, <hi>In Indtis Orientalibus, id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſolum quantum hactenus conſtat in</hi> Amboina, <hi>ſimilis Beſtia frequens ad Fae<g ref="char:EOLhyphen"/>lis magnitudinem accedens, mactata ab incolis comeditur, ſi rite preparetur, nam aliàs faetet. Nomen illi</hi> Cous C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us <hi>inditum.</hi> What Similitude this Beaſt may have with o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Animal; or whether it is to be reckoned amongſt the <hi>Animalia Crumenata,</hi> as <hi>Scaliger (r)</hi> calls them, I do not know. Our Animal ſeems to be pro<g ref="char:EOLhyphen"/>perly a <hi>Native</hi> of <hi>America. Richardus Dinothus</hi> (as I find him quoted in <hi>Aldrovandus (a)</hi> ſaith <hi>Veram horum Patriam Americam eſſe, praeſertim Pervanis Regionibus.</hi> So <hi>Peter Martyr (w), Arbores in Pariana Regione ingen<g ref="char:EOLhyphen"/>tes ſunt, inter quas repertum eſt animal,</hi> &amp;c. and then deſcribes our <hi>Poſſum.</hi> That 'tis found in <hi>Darien</hi> and <hi>Florida,</hi> is aſſerted by <hi>Nierembergius (d);</hi> and in <hi>New-Spain,</hi> by <hi>Cardan,</hi> and others. That they are in the Iſles of <hi>Anguilla</hi> and <hi>Tabago,</hi> is affirmed by the <hi>Author</hi> of the <hi>Preſent State</hi> of his Majeſty's Iſles and Territories in <hi>America, pag.</hi> 138, and <hi>pag.</hi> 250. And in <hi>Virginia</hi> they are frequently to be met with; as <hi>Ralph Hamor (l), John de Laet (m),</hi> Captain <hi>John Smith (n),</hi> and a great many others, tells us; and this that we diſſected came from thence.</p>
+            <p>But not only in the <hi>Weſt,</hi> but <hi>South America</hi> likewiſe, 'tis to be found: So <hi>Petrus Maffeius (e)</hi> and <hi>Caſpar Barlaeus (f)</hi> aſſures us, that they are in <hi>Braſile.</hi> Whe<g ref="char:EOLhyphen"/>ther <hi>Cardan (i)</hi> was not mis-informed, when he tells us, that 'tis in <hi>Aethiopia;</hi> I do very much queſtion; his Words are theſe: <hi>Animal aliud mittit Aethiopia, parte anteriori vulpi perſimile, Cauda &amp; poſteriore Cercopithe<g ref="char:EOLhyphen"/>co, pedibus anterioribus humanis, auribus veſpertilionis, quod crumeuam habet ſub Ventre, qua Catulos undiqua<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> geric nec dimittit, niſi dum lactare vult.</hi> What Authori<g ref="char:EOLhyphen"/>ty he had for this, I do not know; but he owns too,
+<pb n="43" facs="tcp:64883:25"/>that they are in the <hi>Weſt-Indies. Nierembergius (d)</hi> amongſt the <hi>Places</hi> where this Animal is to be found, reckons likewiſe the <hi>Molucca Iſlands;</hi> which, if true, there may be ſomething in what <hi>Piſo (b)</hi> ſaith of <hi>Am<g ref="char:EOLhyphen"/>boina,</hi> which is one of them. But I think it does deſerve a farther Enquiry.</p>
+            <p>I ſhall proceed now to give a Deſcription of the <hi>Sce<g ref="char:EOLhyphen"/>leton,</hi> and ſo ſhall conclude.</p>
+            <p>We will begin therefore with the <hi>Head,</hi> which, from the End of the <hi>Occiput,</hi> to the Exſtream of the <hi>Na<g ref="char:EOLhyphen"/>res,</hi> was Four Inches and Three Quarters long; of which the <hi>Roſtrum</hi>
+               <note n="†" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 4. <hi>A A.</hi>
+               </note> meaſured Three Inches; and juſt where the <hi>Roſtrum</hi> and the <hi>Cranium</hi>
+               <note n="‖" place="margin">b b</note> met, the Bones were ſo pinched in, at the Sides, that here, 'twas very narrow; and I may ſay, in Proportion to the Bulk of the Ani<g ref="char:EOLhyphen"/>mal, this was the leaſt <hi>Cranium</hi> that ever I met with in a <hi>Quadrupede.</hi> On the <hi>Forehead,</hi> the <hi>Roſtrum</hi> was an Inch broad, having on each ſide, a <hi>Protuberance</hi>
+               <note n="*" place="margin">i.</note> jutting out. There was a large <hi>Sature</hi>
+               <note n="†" place="margin">K.</note> juſt in the Middle, which divided the upper Bones of the <hi>Nares</hi> length<g ref="char:EOLhyphen"/>ways, and though they ran ſlender towards the Extream of the <hi>Nares;</hi> yet theſe Bones towards the <hi>Forehead,</hi> ſpread into a <hi>Triangular</hi> Figure, and as they are joined together, they form a <hi>Rhomboide,</hi> or a <hi>Lozinge.</hi> But I will not be particular in deſcribing each <hi>Bone,</hi> that compoſe the <hi>Head;</hi> for fear of being tedious: But I cannot but take notice of that remarkable riſing <hi>Ridge</hi>
+               <note n="‖" place="margin">c c c.</note> like a <hi>Creſt,</hi> that runs the length of the <hi>Cranium,</hi> from the <hi>Forehead</hi> to the <hi>Occiput,</hi> juſt in the Middle; where the <hi>Sutura Sa<g ref="char:EOLhyphen"/>gittalis</hi> is in other <hi>Skuls.</hi> This <hi>Ridge,</hi> for Diſtinction take, I ſhall call, <hi>Protuberantia Oſſea longitudinalis;</hi> and I obſerved, it jutted out from the <hi>Cranium,</hi> above a Quarter of an Inch: Juſt at its upper <hi>Edge,</hi> I could per<g ref="char:EOLhyphen"/>ceive a <hi>Seam</hi> like a <hi>Suture;</hi> ſo that though now, theſe
+<pb n="44" facs="tcp:64883:26"/>Bones are ſo well united together, that they appeared as one entire Body; yet in the <hi>Faetus,</hi> without doubt, they are ſeparable, and are Two. And this I rather think, becauſe in the upper part of the <hi>Cranium</hi> I could not find any <hi>Sutures</hi> at all. So likewiſe anſwerable to the <hi>Lam<g ref="char:EOLhyphen"/>doidal Suture,</hi> may be thoſe other <hi>Ridges</hi> in the Ex<g ref="char:EOLhyphen"/>tream of the <hi>Occiput,</hi> which I ſhall call, <hi>Protuberantiae Oſſeae Laterales</hi>
+               <note n="*" place="margin">d.</note>; which ariſing on each ſide from the <hi>Proceſſus Styloides,</hi> aſcends obliquely up the hinder Part of the <hi>Occiput;</hi> and juſt in the Middle at the Top, is joined with the <hi>Longitudinal Ridge,</hi> I have deſcribed. Theſe <hi>Ridges,</hi> although as deep as the <hi>firſt,</hi> yet were not ſtanding ſo upright, but projected rather like a <hi>Pent<g ref="char:EOLhyphen"/>houſe,</hi> over this hinder part of the <hi>Cranium;</hi> by both which <hi>Ridges,</hi> the <hi>Cranium</hi> is ſo well guarded and defen<g ref="char:EOLhyphen"/>ded, that 'tis almoſt impoſſible, the <hi>Skull</hi> ſhould be any ways cracked or broken. Something like theſe <hi>Ridges,</hi> but nothing ſo large, I have obſerved in the <hi>Skull</hi> of a Weaſel.</p>
+            <p>And not only the <hi>Brain,</hi> but the <hi>Eyes</hi> likewiſe, are very well guarded and defended, by the <hi>Os Zygomati<g ref="char:EOLhyphen"/>cum</hi>
+               <note n="†" place="margin">e. f.</note>; which is very broad and ſtrong; in the broad<g ref="char:EOLhyphen"/>eſt Place being above Three Quarters of an Inch, and in the narroweſt Half an Inch, being very thick on its under Edge; but at its upper, growing thin and ſharp. But for the greater Strengthening this <hi>Bone</hi> (which is formed by a <hi>Proceſs</hi> from the <hi>Os Temporum</hi>
+               <note n="‖" place="margin">e.</note>, and ano<g ref="char:EOLhyphen"/>ther from the <hi>Maxilla ſuperior</hi>
+               <note n="*" place="margin">f.</note>) where they meet, they lap over one another, and ſo become the ſtronger. This <hi>Os Zygomaticum</hi> was Two Inches and an Half long, and ſtanding off from the <hi>Cranium</hi> an Inch in Diſtance.</p>
+            <p>In the <hi>Orbit</hi> of the <hi>Eye</hi> at the inward <hi>Canthus,</hi> there was a large <hi>Foramen</hi>
+               <note n="†" place="margin">e.</note>, which led into the Cavity of the <hi>Noſe,</hi> and by a <hi>Duct</hi> placed here, the <hi>Tears</hi> or Moiſture from the <hi>Eyes</hi> is conveyed into the <hi>Noſtrils.</hi> In the up<g ref="char:EOLhyphen"/>per
+<pb n="45" facs="tcp:64883:26"/>
+               <hi>Jaw-Bone</hi> likewiſe, there was a large <hi>Foramen</hi>
+               <note n="‖" place="margin">h.</note>, which was for the Paſſage of ſome Veſſels from the in<g ref="char:EOLhyphen"/>ward <hi>Orbit</hi> of the <hi>Eye.</hi>
+            </p>
+            <p>The <hi>Cranium</hi>
+               <note n="†" place="margin">b b.</note>, which encompaſs'd the <hi>Brain,</hi> in the largeſt Place, was about an Inch over; and about an Inch and Half in Length; but its Cavity jutted out ſomewhat farther towards the <hi>Nares,</hi> making as it were, a particular <hi>Cell</hi> here, and pretty capacious, for the re<g ref="char:EOLhyphen"/>ceiving the <hi>Proceſſus Mamillares,</hi> and that fore Part of the <hi>Brain.</hi> And afterwards I obſerved the <hi>Os Cribri<g ref="char:EOLhyphen"/>forme</hi> very remarkably perforated with Holes, like a <hi>Sive;</hi> and indeed, in forming this <hi>Organ</hi> of <hi>Smelling,</hi> Nature ſeems very careful and ſollicitous, the <hi>Roſtrum</hi> making ſo great a part of the <hi>Head,</hi> that the <hi>Cranium</hi> it ſelf ſeemed very inconſiderable in reſpect to it, its inward Capacity containing not above the Quantity of a <hi>Wal<g ref="char:EOLhyphen"/>nut.</hi> Not having diſſected the <hi>Brain</hi> (which I hope I may have hereafter an Opportunity to do) I will not at preſent, inſiſt on the Deſcription of the ſeveral <hi>Forami<g ref="char:EOLhyphen"/>na's</hi> I obſerved on the inſide, for the Paſſage of the <hi>Nerves</hi> and <hi>Blood Veſſels.</hi> But, as I have ſhewn, ſince it has ſo little <hi>Brains, Nature</hi> hath been very kind to it, in pre<g ref="char:EOLhyphen"/>ſerving them, by the Defence of thoſe <hi>Prominent Bones</hi> I have remarked, both length-ways and laterally be<g ref="char:EOLhyphen"/>hind; and on the Sides too, 'tis guarded by the <hi>Tempo<g ref="char:EOLhyphen"/>ral Proceſs</hi>
+               <note n="†" place="margin">e.</note> of the <hi>Os Zygomaticum.</hi>
+            </p>
+            <p>The <hi>Os Spongioſum</hi> in each <hi>Noſtril,</hi> ſeemed very curi<g ref="char:EOLhyphen"/>ouſly contrived, by the abundance of <hi>Laminae</hi> it enjoys; ſo that the <hi>Membrane</hi> that covers them, by this means, is render'd more Capacious, and capable of receiving more plentifully the <hi>Effluvia's</hi> of thoſe Animals, it would either catch, or avoid; and in this <hi>Senſory</hi> 'tis known, that <hi>Bruits</hi> excel even <hi>Man</hi> himſelf, and their <hi>Organ</hi> is more adapted for it.</p>
+            <pb n="46" facs="tcp:64883:27"/>
+            <p>The <hi>
+                  <g ref="char:V">Ʋ</g>nder-Jaw</hi>
+               <note n="‖" place="margin">l l.</note> conſiſted of Two ſtrong <hi>Bones,</hi> join<g ref="char:EOLhyphen"/>ed together only at the <hi>Mentum;</hi> each meaſured Four Inches in Length. The <hi>Head</hi> of this <hi>Bone</hi> (which was Half an Inch broad) was received into a <hi>Sinus</hi> of the <hi>Os Temporum,</hi> and very firmly articulated there. It had Two <hi>Proceſſus:</hi> the <hi>Anterior</hi>
+               <note n="†" place="margin">m.</note> or <hi>Superior</hi> is large and thin, into which is inſerted the <hi>Temporal Muſcle.</hi> The <hi>Inferior
+<note n="*" place="margin">n.</note> Proceſs</hi> is ſmaller, and runs to a ſharp Point: Here at this <hi>Proceſs,</hi> the Edge of the <hi>Mandible</hi> is ſo di<g ref="char:EOLhyphen"/>lated, that it meaſured above Half an Inch. On the in<g ref="char:EOLhyphen"/>ſide of the <hi>Jaw</hi> here, is a large <hi>Sinus,</hi> which leads to a <hi>Foramen</hi> that goes into the Body of the <hi>Jaw-Bone,</hi> and affords a Paſſage for the Veſſels thither.</p>
+            <p>The Uſe of theſe <hi>Bones</hi> is for <hi>Maſtication;</hi> which leads me to conſider the <hi>Teeth.</hi> And here we find all the Three Sorts of them; for in the <hi>
+                  <g ref="char:V">Ʋ</g>pper-Jaw</hi> before, were Eight ſmall <hi>Dentes Inciſores,</hi> Four of each Side; then a void Space, almoſt a Quarter of an Inch; then Two large <hi>Prominent Dentes Canini,</hi> one of each Side; which jutted out of the <hi>Jaw</hi> about Half an Inch: theſe were ſucceeded of each Side, with Three <hi>Dentes Inciſores;</hi> but theſe were much ſtronger and larger than the <hi>Fore-Teeth;</hi> and theſe imitated the <hi>Dentes Molares,</hi> in that they were inſerted into the <hi>Jaw-Bone</hi> with Two <hi>Phangs:</hi> But the <hi>Heads</hi> of theſe <hi>Inciſores</hi> were acuminated; where<g ref="char:EOLhyphen"/>as the <hi>Heads</hi> of the <hi>Molares</hi> were flat, and almoſt of a <hi>Triangular</hi> Figure. There were Four <hi>Dentes Molares</hi> of each Side: in all, Four and Twenty Teeth in the <hi>
+                  <g ref="char:V">Ʋ</g>pper-Jaw.</hi> But the double <hi>Phangs</hi> of the <hi>Molares,</hi> and the <hi>Inciſores Majores</hi> were ſuch, as at firſt ſight, one would think them Two diſtinct <hi>Teeth;</hi> each <hi>Phang</hi> being in<g ref="char:EOLhyphen"/>ſerted into a diſtinct <hi>Alveolus,</hi> or <hi>Socket</hi> in the <hi>Jaw,</hi> and remaining ſeparated ſome way above the <hi>Jaw-Bone,</hi> and only joined at the <hi>Head.</hi>
+            </p>
+            <pb n="47" facs="tcp:64883:27"/>
+            <p>In the Under <hi>Jaw-Bone,</hi> there were likewiſe of each Side, Four <hi>Dentes Inciſores Minores</hi> before; then a little void Space; after that, the <hi>Dens Caninus;</hi> then Three <hi>Dentes Inciſores Majores;</hi> and laſt of all Four <hi>Den<g ref="char:EOLhyphen"/>tes Molares,</hi> anſwerable to thoſe in the <hi>
+                  <g ref="char:V">Ʋ</g>pper-Jaw,</hi> but ſomewhat ſmaller. In both <hi>Jaws</hi> in all, Eight and For<g ref="char:EOLhyphen"/>ty <hi>Teeth. Georg. Margravius</hi>'s <hi>(a)</hi> Account I find is ſome<g ref="char:EOLhyphen"/>what different from mine; for he ſaith, <hi>Dentes (habet) inſtar faelis ſeu Vulpis, anterius nimirum tam ſuperius, quàm inferius parvulos, hinc quatuor longos Caninos, ſupe<g ref="char:EOLhyphen"/>riores quidem longiores, inferiores breviores, hinc iterum ſex alios, &amp; dein Molares. Nimirum ſedecim Molares, duodecim inter medios, quatuor Caninos, &amp; inciſores par<g ref="char:EOLhyphen"/>vulos in inferiori mandibula octo, in ſuperiori decem, nam duos majuſculos in medio habet, more Leporis.</hi>
+            </p>
+            <p>But we will proceed next to what the <hi>Head</hi> is faſtened to, the <hi>Vertebrae:</hi> and I find here, Seven <hi>Vertebrae</hi> of the <hi>Neck;</hi> Thirteen of the <hi>Back</hi> or <hi>Thorax;</hi> Six of the <hi>Loins;</hi> Three of the <hi>Os Sacrum;</hi> and Two and Twenty of the <hi>Tail;</hi> One and Fifty in all, and all extraordinari<g ref="char:EOLhyphen"/>ly contrived.</p>
+            <p>The Firſt <hi>Vertebra</hi>
+               <note n="†" place="margin">
+                  <hi>No.</hi> 1.</note> of the <hi>Neck</hi> (to which the <hi>Head</hi> is faſtened, and is therefore called the <hi>Atlas</hi>) had two broad <hi>tranſverſe Proceſſes,</hi> but no <hi>Spine.</hi> The Second <hi>Vertebra</hi>
+               <note n="*" place="margin">2.</note> of the <hi>Neck,</hi> had a very large and thick <hi>Spine</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 6. <hi>b.</hi>
+               </note> of a Triangular Figure; and in it was obſerved a large Semi-circular <hi>Sinus</hi>
+               <note n="*" place="margin">c.</note>: which was ſo deep, as to re<g ref="char:EOLhyphen"/>ceive into its <hi>Boſom,</hi> a great part of the Firſt <hi>Vertebra;</hi> by which means, the <hi>Articulation</hi> was very much ſtreng<g ref="char:EOLhyphen"/>thened. This <hi>Vertebra</hi> is called <hi>Dentata,</hi> from that <hi>Tooth like Protuberance</hi>
+               <note n="†" place="margin">d.</note> I have repreſented, and which is received into the Hollow of the Firſt <hi>Vertebra,</hi> where the <hi>Medulla Spinalis</hi> runs. This <hi>Vertebra</hi> backwards, had Two <hi>Proceſſus obliqui ſuperiores</hi>
+               <note n="*" place="margin">e.</note>, and Two <hi>Oliqui inferiores</hi>
+               <note n="†" place="margin">f.</note>. The Third <hi>Vertebra</hi> of the <hi>Neck,</hi> had the
+<pb n="48" facs="tcp:64883:28"/>ſame <hi>Proceſſes</hi>
+               <note n="‖" place="margin">
+                  <hi>Fig.</hi> 7. <hi>e e. f f.</hi>
+               </note> both before and behind; but the <hi>Spine</hi>
+               <note n="*" place="margin">d.</note> here was about Three Quarters of an <hi>Inch</hi> in Height; about the Third of an Inch thick; and juſt at the Top ſeemed to be a little cleft. The <hi>Fourth</hi> and the <hi>Fifth Ver<g ref="char:EOLhyphen"/>tebra</hi> had the ſame <hi>Proceſſes,</hi> as the <hi>Third Vertebra;</hi> and the <hi>Spine</hi> here, likewiſe very thick, and cleft at the Top; but gradually leſſening in Height, as alſo Thickneſs. The <hi>Sixth Vertebra,</hi> beſides the former <hi>Proceſſes,</hi> had likewiſe an acute <hi>Tranſverſe</hi> one, on each Side; and its <hi>Spine</hi> much ſhorter, and more acuminated than the for<g ref="char:EOLhyphen"/>mer. The <hi>Seventh Vertebra</hi> of the Neck had only Two <hi>oblique Proceſſes</hi> before, and none behind; and Two <hi>acute tranſverſe Proceſſes,</hi> and a very ſhort and ſharp <hi>Spine:</hi> So that upon holding up the <hi>Head,</hi> the <hi>Spine</hi> of the <hi>Firſt Vertebra</hi>
+               <note n="†" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 4. <hi>No.</hi> 8.</note> of the <hi>Thorax,</hi> would touch the Top of the <hi>Fifth Vertebra</hi> of the <hi>Neck.</hi> Theſe <hi>Verte<g ref="char:EOLhyphen"/>brae</hi> are ſo ſtrongly and cloſely locked into one another, that though each of them are large in themſelves; yet, thus articulated, they do not make full Two Inches in Length. But What I moſt wondered at, was, to ob<g ref="char:EOLhyphen"/>ſerve the Thickneſs and Strength of the <hi>Spines</hi> of the Second, Third, Fourth and Fifth <hi>Vertebrae,</hi> far different from what I have obſerved in any other Animal; and can't but think muſt be, for the better defending its ſelf from the Injuries it might receive by any Fall; and to perform much the ſame <hi>Office,</hi> as that <hi>Prominent Bony Ridge</hi> in the <hi>Cranium.</hi> And not only here, but likewiſe the <hi>Spines</hi> of ſeveral of the <hi>Vertebrae</hi> of the <hi>Thorax</hi> and <hi>Loins,</hi> I find are thus flatted, and broad at the Ends; and they being ſo, ſhould it happen to fall to the Ground, by Chance or Deſign; theſe <hi>Spines</hi> being ſo Prominent and flat, will better bare off the Blow; and upon this Account, there is no Danger of his breaking his <hi>Neck,</hi> his <hi>Back,</hi> or his <hi>Head;</hi> ſince they are all Three ſo well ſecured and guarded.</p>
+            <pb n="49" facs="tcp:64883:28"/>
+            <p>The firſt <hi>Seven Vertebrae</hi> of the <hi>Thorax,</hi> have Two <hi>oblique Proceſſes</hi>
+               <note n="†" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 8. <hi>b b.</hi>
+               </note> forwards, which run under the hinder <hi>oblique Proceſſes</hi> of the preceding <hi>Vertebra;</hi> and have Two <hi>oblique Proceſſes</hi>
+               <note n="*" place="margin">c c.</note> backwards, which rides over thoſe of the ſucceeding <hi>Vertebra;</hi> as likewiſe Two <hi>tranſverſe Proceſſes</hi>
+               <note n="†" place="margin">d d.</note>, which at their Ends have ſmall <hi>Acetabula's</hi>
+               <note n="‖" place="margin">e e.</note> or <hi>Sinus's,</hi> for the receiving the <hi>Heads</hi> of the <hi>Ribs,</hi> which are faſtened to them. The <hi>Spines</hi>
+               <note n="*" place="margin">a.</note> of theſe <hi>Vertebrae,</hi> are ſlender, thin, and ſharp; about Three Quarters of an Inch long. The <hi>Six</hi> following <hi>Vertebrae</hi> of the <hi>Thorax,</hi> have ſhort, thick, and flat <hi>Spines.</hi> The <hi>oblique Proceſſes</hi> being continued on each Side of the <hi>Spine,</hi> make as 'twere, a Gutter; and the <hi>tranſverſe Proceſſes</hi> here, are ſomewhat different from the former. The <hi>Spines</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 9.</note> of the <hi>Vertebrae</hi> of the <hi>Back</hi> or <hi>Loins,</hi> the more they approached the <hi>Os Sacrum,</hi> ſo they leſſened gradually in their Thickneſs on the Edge. But here were double <hi>oblique Proceſſes
+<note n="†" place="margin">b b. c c.</note>, viz.</hi> Four at each End of the <hi>Vertebra,</hi> and the undermoſt ſpreading themſelves out broad. The Three <hi>Vertebrae</hi>
+               <note n="*" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 4. <hi>No.</hi> 10.</note> of the <hi>Os Sacrum,</hi> are firmly faſtened to the <hi>Os Ilium</hi>
+               <note n="†" place="margin">
+                  <hi>No.</hi> 13.</note>; but the laſt not ſo entirely as the Two former: But this at each Side had a broad <hi>tranſverſe Proceſs,</hi> and the <hi>Spines</hi> of theſe were thin. The Two Firſt <hi>Vertebrae</hi>
+               <note n="*" place="margin">
+                  <hi>No.</hi> 11.</note> of the <hi>Tail</hi> had only <hi>One</hi> ſmall acute <hi>Spine;</hi> but in all the other <hi>Ver<g ref="char:EOLhyphen"/>tebrae</hi> of the <hi>Tail,</hi> both at the Head and Tail of each <hi>Vertebra,</hi> I obſerved Two <hi>Spines;</hi> but thoſe at the Head of the Joint, the larger. In the Six Firſt <hi>Vertebrae</hi> of the <hi>Tail,</hi> there was, of each Side, a broad <hi>tranſverſe Pro<g ref="char:EOLhyphen"/>ceſs,</hi> the Length of the <hi>Joint:</hi> In the other <hi>Vertebrae</hi> on<g ref="char:EOLhyphen"/>ly at the <hi>Head</hi> and <hi>Tail,</hi> a jutting out at the Sides. The <hi>Vertebrae</hi> about the Middle of the <hi>Tail,</hi> were the longeſt; being there about an Inch long; nearer the Root of the <hi>Tail,</hi> and at the End not ſo long.</p>
+            <pb n="50" facs="tcp:64883:29"/>
+            <p>But what I was moſt of all pleaſed to ſee, and I think, is a wonderful Piece of <hi>Nature's Mechaniſm,</hi> was, thoſe <hi>Spines</hi>
+               <note n="†" place="margin">
+                  <hi>No.</hi> 12.12.</note> or <hi>Hooks</hi> placed in a Line, in the Middle of the under Side of the <hi>Vertebrae</hi> of the <hi>Tail.</hi> 'Tis true, the firſt Three <hi>Vertebrae</hi> had none of theſe <hi>Spines,</hi> nor were they neceſſary here, ſince they lay within the Compaſs of the <hi>Oſſa Coxendicis;</hi> but in all the other <hi>Vertebrae,</hi> to the End of the <hi>Tail</hi> they were to be obſerved; but as they approached the Extream of the <hi>Tail,</hi> they grew leſſer and ſhorter. Theſe <hi>Spines</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 10. <hi>bbb.</hi>
+               </note> (where longeſt) were about a Quarter of an Inch, or ſomewhat more: they were placed juſt at the Articulation of each <hi>Joint,</hi> and, as I ſaid, in the Middle from the Sides; and ſeemed to be articulated, both to the preceding and following <hi>Verte<g ref="char:EOLhyphen"/>bra;</hi> not being an entire ſolid Body, but ariſing from the <hi>Vertebrae</hi> with Two Legs or <hi>Crura,</hi> become after<g ref="char:EOLhyphen"/>wards perfectly united at the Ends. By this means, theſe <hi>Bones</hi> are rendred more firm and ſtrong, and this <hi>Hollow</hi>
+               <note n="*" place="margin">c c.</note> ſerves for the tranſmitting the <hi>Blood-Veſſels</hi> thorough them; and one may obſerve here a <hi>Stria,</hi> or Furrow, all the Length of the <hi>Vertebra,</hi> for the receiving them; whereby they are the better ſecured from Compreſſion, when this Animal hangs by his <hi>Tail.</hi> And for the per<g ref="char:EOLhyphen"/>forming this Office, nothing, I think, could be more ad<g ref="char:EOLhyphen"/>vantageouſly contrived: For when the <hi>Tail</hi> is twirl'd or wound about a Stick, this <hi>Hook</hi> of the <hi>Spine</hi> eaſily ſuſtains the Weight, and there is but little Labour of the <hi>Muſcles</hi> required, only enough for the bowing or crooking the <hi>Tail;</hi> for then, as by a <hi>Hook,</hi> the Weight of the whole Body is hereby ſuſpended. And for the doing this, 'twas obſerved, that in each preceding <hi>Vertebra,</hi> there did a <hi>Muſcle</hi> ariſe, which was inſerted on each ſide of the ſuc<g ref="char:EOLhyphen"/>ceeding <hi>Vertebra;</hi> which Acting or <hi>Contracting,</hi> muſt neceſſarily bend and curve that <hi>Joint.</hi> But for the ſtrengthening the whole, there was obſerved Four <hi>Muſcles</hi>
+               <pb n="51" facs="tcp:64883:29"/>to ariſe from the <hi>Os Sacrum,</hi> which did run the whole length of the <hi>Tail;</hi> Two on the upper Side; and Two on the under; ſending each a <hi>Tendon</hi> to each <hi>Internode</hi> or <hi>Vertebra.</hi> So that when the <hi>Skin</hi> was ſtript off, the outward parts of theſe <hi>Muſcles</hi> ſeemed to have <hi>tendinous</hi> Expanſions over them, the whole Length of the <hi>Tail,</hi> and almoſt to be covered by them; which muſt needs very much contribute, and add Strength to the <hi>Tail;</hi> beſides what may be the Effect of their Inſertion of <hi>Ten<g ref="char:EOLhyphen"/>dons</hi> into each <hi>Joint,</hi> or <hi>Vertebra,</hi> in curling and un<g ref="char:EOLhyphen"/>bending the <hi>Tail.</hi>
+            </p>
+            <p>What <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> this Animal makes of his <hi>Tail,</hi> when alive, and how advantagiouſly 'tis contrived for that Purpoſe, we have ſufficiently ſeen: But I find it is highly com<g ref="char:EOLhyphen"/>mended by <hi>Hernandez (c),</hi> as an extraordinary <hi>Medicine</hi> and <hi>Specifick;</hi> and from him, ſeveral others relate the ſame: I ſhall give you only his Words, and ſo proceed on to our <hi>Sceleton; Cauda hujus Animalis</hi> (ſaith he) <hi>egre<g ref="char:EOLhyphen"/>gium eſt Medicamentum; trita enim drachmae unius men<g ref="char:EOLhyphen"/>ſura, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ex aqua aliquoties devorata, nullo praeaſſumpto alimento eo dio quo hauritur, <g ref="char:V">Ʋ</g>rinae meatus mire abſtergit, eadem evocata, tractiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> lapillis, &amp; quacunque alia re me<g ref="char:EOLhyphen"/>atus obſtruente. Venerem excitat, generat lac, ac per<g ref="char:EOLhyphen"/>fractis medetur, &amp; Cholicis, Partum accelerat, Menſes elicit, extrahit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuſa &amp; impoſita aculeos qui ſunt infixi, ac ventrem emollit.</hi> And concludes, <hi>Et fortaſſis nullum extat Medicamentum ad has res omnes peragendas, prae<g ref="char:EOLhyphen"/>ſtantius.</hi>
+            </p>
+            <p>To the <hi>Vertebrae</hi> of the <hi>Thorax</hi> are faſtened the <hi>Ribs</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 2. <hi>Fig.</hi> 4. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>, and there are Thirteen of each Side. The Seven fore<g ref="char:EOLhyphen"/>moſt are more perfectly <hi>articulated</hi> with the <hi>Sternum;</hi> the Six ſucceeding may be reckoned in ſome Senſe, <hi>Coſtae Nothae:</hi> For though they are long, and as they proceed from the <hi>Vertebrae,</hi> are inclined backwards, to<g ref="char:EOLhyphen"/>wards the hinder Legs; yet afterwards they are reflected
+<pb n="52" facs="tcp:64883:30"/>forwards towards the <hi>Sternum</hi> or <hi>Cartilago Scutiformis.</hi> But I muſt here take Notice, that though in <hi>Man,</hi> and other Animals, that Part of the <hi>Ribs</hi> that is faſtened to the <hi>Os Pectoris,</hi> or <hi>Sternum,</hi> be uſually <hi>Cartilaginous;</hi> yet here, in our Subject, I obſerved it to be all Bony throughout. However, this Difference I found, that the <hi>Ribs</hi> did look redder, by reaſon of the <hi>Blood Veſſels</hi> in them; and this Part was Whiter, and where it was faſtened to the <hi>Ribs,</hi> one might plainly ſee; ſo that it may well paſs for a <hi>Bony Cartilage;</hi> as often, the <hi>Car<g ref="char:EOLhyphen"/>tilages</hi> do become <hi>Bony.</hi> The Firſt <hi>Rib</hi> was only an Inch long, and its Bony <hi>Cartilage</hi> a Quarter of an Inch: hence gradully the <hi>Ribs</hi> increaſe in Length; for the Se<g ref="char:EOLhyphen"/>venth <hi>Rib</hi> was Three Inches long; and its <hi>Cartilage</hi> One Inch and Half. The Four laſt of the <hi>Coſtae Nothae,</hi> gra<g ref="char:EOLhyphen"/>dually leſſen again in Length; for the laſt <hi>Rib</hi> of all was only One Inch and Three Quarters long; and its <hi>Carti<g ref="char:EOLhyphen"/>lage</hi> did not run Home to the <hi>Os Pectoris,</hi> or <hi>Sternum,</hi> though the Firſt, Second and Third of the <hi>Coſtae Nothae</hi> did.</p>
+            <p>The <hi>Os Pectoris,</hi> or <hi>Sternum,</hi> conſiſted of Seven <hi>Bones,</hi> according to the Number of the <hi>Fore-Ribs,</hi> that are faſtened to them. At the Beginning of the <hi>Sternum,</hi> there jutted out a ſharp <hi>Bony Cartilage,</hi> which, from its Figure, I ſhall call, <hi>Cartilago Enſiformis</hi>
+               <note n="†" place="margin">p.</note>; and here was faſtened One Extream of the <hi>Claviculae</hi>
+               <note n="‖" place="margin">o.</note>; at the End of the <hi>Sternum,</hi> towards the <hi>Belly,</hi> there was a broad, roundiſh <hi>Cartilage,</hi> which therefore I ſhall call, <hi>Cartila<g ref="char:EOLhyphen"/>go Scutiformis</hi>
+               <note n="*" place="margin">☉.</note>.</p>
+            <p>There were Two <hi>Claviculae</hi>
+               <note n="‖" place="margin">o.</note>, or <hi>Collar-Bones,</hi> each an Inch and Half long; having one Extream faſtened to the Firſt <hi>Bone</hi> of the <hi>Sternum,</hi> or the <hi>Cartilago Enſiformis;</hi> and the other End to the <hi>Spine</hi>
+               <note n="†" place="margin">r.</note> of the <hi>Scapula,</hi> near the Conjunction of it to the <hi>Os Humeri.</hi> By means of this <hi>Bone,</hi> it can more advantagiouſly bring its <hi>Fore-Feet</hi>
+               <pb n="53" facs="tcp:64883:30"/>to its <hi>Mouth;</hi> as it uſes to do when it feeds its ſelf, as do the <hi>Monkey-Kind,</hi> who have <hi>Claviculae</hi> too as well as <hi>Man;</hi> though many Animals want theſe <hi>Bones.</hi>
+            </p>
+            <p>The <hi>Scapula</hi>
+               <note n="*" place="margin">q.</note> or <hi>Shoulder-Blade</hi> was about Two Inches long, about an Inch and Half broad; its <hi>Spine</hi>
+               <note n="‖" place="margin">r.</note>, though thin, yet the nearer it approached the <hi>Shoulder,</hi> it grew larger and flatter. Into the <hi>Sinus</hi> of the <hi>Neck</hi> of the <hi>Scapula,</hi> was received the <hi>Head</hi>
+               <note n="†" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 6. <hi>a.</hi>
+               </note> of the <hi>Shoulder-Bone,</hi> or of the <hi>Fore-Thigh-Bone;</hi> as to that Protuberance, called, the <hi>Acromium,</hi> was faſtened the End of the <hi>Clavicula.</hi>
+            </p>
+            <p>This <hi>Thigh-Bone</hi> of the <hi>Fore-Legs</hi> I found very re<g ref="char:EOLhyphen"/>markable; ſo that I cauſed a <hi>Figure</hi>
+               <note n="‖" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 6.</note> to be made of it: 'twas about Two Inches and Three Quarters long; 'twas thick and Strong, having a large rough <hi>Spine</hi>
+               <note n="*" place="margin">b.</note> jutting forward, and running Half the Length of it. The low<g ref="char:EOLhyphen"/>er Extream
+<note n="†" place="margin">f. g.</note> of this <hi>Thigh-Bone,</hi> to which was faſtened the <hi>Tibia</hi> and <hi>Fibula,</hi> grew very broad, being almoſt an Inch broad. Above, where this Bone began to grow broad, on the out-ſide, was a large <hi>Protuberance</hi>
+               <note n="‖" place="margin">c.</note>; and on the Inſide there was a great oblong <hi>Foramen</hi>
+               <note n="*" place="margin">d.</note>, or hol<g ref="char:EOLhyphen"/>low Paſſage, formed by a ſmall <hi>Bone</hi> ariſing from the inward Fore Part of the <hi>Thigh-Bone,</hi> where it begins to grow larger, and was afterwards united to that part of the <hi>Baſis</hi>
+               <note n="†" place="margin">f.</note> of this <hi>Bone,</hi> where the <hi>Fibula,</hi> or <hi>Minus focile</hi> is joined. Juſt in the Middle of the <hi>Baſis</hi> of this <hi>Bone,</hi> there was a large <hi>Sinus</hi>
+               <note n="‖" place="margin">e.</note> which backwards ap<g ref="char:EOLhyphen"/>peared deeper, which did lock into another deep <hi>Sinus</hi> of the <hi>Tibia;</hi> by which means theſe <hi>Bones</hi> were ſo firm<g ref="char:EOLhyphen"/>ly articulated together, as they were not eaſily, if poſſibly, to be put out of <hi>Joint.</hi>
+            </p>
+            <p>The <hi>Tibia</hi>
+               <note n="†" place="margin">T. T.</note>, or <hi>Focile majus,</hi> was a ſtrong <hi>Bone,</hi> a<g ref="char:EOLhyphen"/>bout Three Inches long; which was extended
+<note n="‖" place="margin">V.</note> upwards about a Quarter of an Inch above its Articulation with the <hi>Thigh-Bone;</hi> and at the other End, was faſtened to the outward <hi>Bone</hi> of the <hi>Tarſus.</hi>
+            </p>
+            <pb n="54" facs="tcp:64883:31"/>
+            <p>The <hi>Fibula</hi>
+               <note n="*" place="margin">w. w.</note>, or <hi>Focile Minus,</hi> was a ſmaller <hi>Bone,</hi> placed more inward and forwarder, and not ſo long as the <hi>Tibia;</hi> being articulated above (but not ſo firmly) with the <hi>Thigh-Bone,</hi> and below, with the inward <hi>Bone</hi> of the <hi>Tarſus.</hi> For there were but Two <hi>Bones</hi> of the <hi>Tarſus</hi>
+               <note n="†" place="margin">x x.</note>, having each a ſmall <hi>Sinus,</hi> for the receiving the <hi>Heads</hi> of the Two <hi>Fociles.</hi> The <hi>Bones</hi> of the <hi>Meta<g ref="char:EOLhyphen"/>tarſus</hi>
+               <note n="‖" place="margin">y y.</note> were Four, or it may be Five; to which were joined the Five <hi>Fingers</hi> or <hi>Toes</hi> of the <hi>Fore-Feet.</hi> The innermoſt <hi>Toe</hi> had but Two Articulations, or Joints, but at the End had a large <hi>hooked</hi> ſtrong <hi>Nail:</hi> The other Four <hi>Fingers</hi> had each, Three <hi>Articuli</hi> or <hi>Joints,</hi> armed with <hi>Hooked Nails,</hi> as the Firſt.</p>
+            <p>The <hi>Hinder-Legs</hi> were faſtened to the Trunk of the Body by the <hi>Os Innominatum;</hi> which, though properly here is but Two <hi>Bones,</hi> (<hi>viz.</hi> One of each Side) being ſeparated above, by the <hi>Os Sacrum,</hi> and below, are join<g ref="char:EOLhyphen"/>ed together at the <hi>Os Pubis</hi>) yet commonly they do, for Diſtinction ſake, give Three Names to each; as the uppermoſt Part of this <hi>Bone</hi> they call, the <hi>Os Ilium</hi>
+               <note n="†" place="margin">
+                  <hi>No.</hi> 13. <hi>Fig.</hi> 5. <hi>GG.</hi>
+               </note>; the lowermoſt, the <hi>Os Iſchii,</hi> or <hi>Coxendicis</hi>
+               <note n="‖" place="margin">I I.</note>; and the fore Part, where the Coalition is, the <hi>Os Pubis</hi>
+               <note n="*" place="margin">a a.</note>. The Length of the whole, in a ſtraight Line, was Three In<g ref="char:EOLhyphen"/>ches. In the <hi>Os Iſchii</hi> was the <hi>Acetabulum</hi>
+               <note n="†" place="margin">ſ ſ.</note>, being a large <hi>Socket,</hi> for the receiving the <hi>Head</hi> of the hinder <hi>Thigh Bone;</hi> and deeper in, there was a Space for the faſtening the <hi>Ligament;</hi> from which <hi>Space,</hi> there was a <hi>Sinus</hi> which led outward; ſo that the Brims of the <hi>Ace<g ref="char:EOLhyphen"/>tabulum</hi> was not an entire <hi>Circle,</hi> but broken off here. But the moſt remarkable <hi>Bones</hi> here, are, the <hi>Oſſa Mar<g ref="char:EOLhyphen"/>ſupialia
+<note n="*" place="margin">c c.</note>, ſeu Janitores Marſupii,</hi> of which I have given a Deſcription before; therefore now ſhall proceed.</p>
+            <p>The <hi>Hinder-Thigh-Bone</hi> was a little above Three Inches long; 'twas roundiſh, and a ſtrong <hi>Bone.</hi> But the <hi>Tibia</hi>
+               <note n="†" place="margin">
+                  <hi>Tab.</hi> 1. <hi>Fig.</hi> 4. TT.</note>, or <hi>Majus Focile</hi> of the <hi>Hinder-Leg,</hi> was ſomewhat
+<pb n="55" facs="tcp:64883:31"/>longer, and a little curved. The <hi>Fibula</hi>
+               <note n="‖" place="margin">w. w.</note>, or <hi>Minus Fo<g ref="char:EOLhyphen"/>cile,</hi> was about the ſame Length, ſtraighter and ſlender<g ref="char:EOLhyphen"/>er: This, towards the <hi>Foot,</hi> was articulated to the <hi>Os Calcis;</hi> as the <hi>Tibia</hi> was to to the <hi>Talus,</hi> or <hi>Aſtragalus;</hi> and theſe Two <hi>Bones</hi> I make the <hi>Tarſus</hi>
+               <note n="*" place="margin">x. x.</note>; and joining to them, were the <hi>Bones</hi> of the <hi>Metatarſus</hi>
+               <note n="†" place="margin">y y.</note>; and to theſe the <hi>Phalanges</hi>
+               <note n="‖" place="margin">z.</note> of the <hi>Fingers</hi> or <hi>Toes.</hi> In the innermoſt, or the <hi>Thumb,</hi> there were only Two <hi>Articuli,</hi> or <hi>Bones;</hi> in the other Four <hi>Toes,</hi> or <hi>Digiti,</hi> in each there were Three <hi>Articuli,</hi> or <hi>Joints.</hi> The End of the <hi>Thumb</hi> was more flatted, than the Ends of the other <hi>Toes:</hi> For the <hi>Thumb,</hi> as I have obſerved, had a <hi>flat Nail,</hi> like a <hi>Hu<g ref="char:EOLhyphen"/>man Thumb;</hi> in the others, the <hi>Nails</hi> were long, and <hi>curved.</hi> I obſerved likewiſe, at the Articulation of each <hi>Joint</hi> of the <hi>Toes,</hi> on the under Side, there were Two ſmall <hi>Bones,</hi> that are called, <hi>Oſſa Seſamoidea,</hi> and theſe, both in the <hi>Fore</hi> and <hi>Hinder-Feet.</hi>
+            </p>
+            <p>I am ſenſible how <hi>tedious</hi> I have been, in the <hi>Deſcrip<g ref="char:EOLhyphen"/>tion</hi> of this <hi>one</hi> Animal, and from a <hi>ſingle</hi> Obſervation too. Had I had more Leaſure to have drawn it up in, I might have been much ſhorter. But it being an <hi>Ani<g ref="char:EOLhyphen"/>mal,</hi> ſo very remarkable; and one too, <hi>ſui Generis,</hi> or a diſtinct <hi>Species</hi> from all others, I was the more inclin'd to be as particular as I could, though not ſo much as I could have wiſhed. And I am the more confirmed in what I have formerly wiſhed
+<note n="(ww)" place="bottom">
+                  <hi>In my Preliminary Diſcourſe concerning Anatomy, and a Natural Hiſtory of Animals, before my</hi> Phocaena.</note> that for the perfecting a <hi>Na<g ref="char:EOLhyphen"/>tural Hiſtory</hi> of <hi>Animals,</hi> we had a <hi>diſtinct</hi> Account and <hi>Anatomy</hi> of ſome <hi>One</hi> of a <hi>Species;</hi> which, with a little Variation, might ſerve for all of that <hi>Family:</hi> ſince I find ſo great a <hi>Maſter</hi> of <hi>Natural Hiſtory,</hi> as Mr. <hi>Ray</hi>
+               <note n="(xx)" place="bottom">Synopſis Animal. <hi>p.</hi> 324.</note>, is of the ſame Opinion.</p>
+            <pb n="56" facs="tcp:64883:32"/>
+            <p>Since part of this Diſcourſe was Printed off, I have met with a Paſſage in a <hi>Treatiſe</hi> of the <hi>Bucaniers of Ameri<g ref="char:EOLhyphen"/>ca,</hi> wrote firſt in <hi>Dutch</hi> by <hi>John Equemeling,</hi> and ſince tranſlated into <hi>Engliſh</hi>
+               <note n="(yy)" place="margin">
+                  <hi>pag.</hi> 49.</note>, which I can't but take Notice of: And if true, (as the Author aſſures us, that he has ſeen it often) 'tis an Inſtance of a <hi>Quadrupede,</hi> which I knew not of before, that receives its <hi>Young</hi> into its <hi>Belly.</hi> But 'tis not a <hi>Land,</hi> but <hi>Water</hi> Animal; or it may be ra<g ref="char:EOLhyphen"/>ther, one <hi>Amphibious,</hi> between both. 'Tis a ſort of <hi>Crocodile,</hi> which he calls a <hi>Cayman;</hi> his Words are theſe, which I therefore repeat, that by farther Obſervation, if true; it might be confirmed; as alſo, it might be more particularly ſpecified, whether their Entrance into the <hi>Belly,</hi> was by the <hi>Mouth,</hi> or any other Part.
+<q>Ma<g ref="char:EOLhyphen"/>ny times (ſaith he) their Eggs (for 'tis an Animal Ovi<g ref="char:EOLhyphen"/>parous) are deſtroyed by Birds, that find them out, as they ſcrape amongſt the Sands: Hereupon the Females of the <hi>Caymans,</hi> at ſuch times as they fear the coming of any Flocks of Birds, do oft-times, by Night, ſwallow theſe their Eggs, and keep them in their Stomach till the Danger is over. And from time to time, they bu<g ref="char:EOLhyphen"/>ry them again in the Sand, as I have told you, bring<g ref="char:EOLhyphen"/>ing them forth again out of their Belly, till the Seaſon is come, of being excluded the Shell. At this time, if the Mother be nigh at hand, they run unto her, and play with her, as little Whelps would do with their Dams, ſporting themſelves according to their own Cuſtom. In this ſort of Sport, they will often times run in and out of their Mothers <hi>Belly,</hi> even as Rabits into their Holes. This I have ſeen them do many times, as I have ſpyed them at play with their Dam, over the Water, upon the contrary Banks of ſome River: at which time I have often diſturbed their Sport, by throw<g ref="char:EOLhyphen"/>ing a Stone that way, cauſing them on a ſudden to creep into the Mother's Bowels, for fear of ſome eminent Danger.</q>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="diagram_descriptions">
+            <pb n="57" facs="tcp:64883:32"/>
+            <head>THE EXPLANATION of the FIGURES.</head>
+            <list>
+               <head>TABULA PRIMA. FIGURA PRIMA</head>
+               <item>
+                  <hi>Repreſents the outward Shape and Figure of the</hi> Poſſum, <hi>drawn from the Life.</hi>
+               </item>
+            </list>
+            <list>
+               <head>FIGURA SECUNDA</head>
+               <item>
+                  <hi>Repreſents the</hi> Slit <hi>or</hi> Aperture <hi>in the Belly that goes to the</hi> Mar<g ref="char:EOLhyphen"/>ſupium <hi>or</hi> Pouch, <hi>where the Young Ones lodge, till they can ſhift for themſelves.</hi>
+               </item>
+            </list>
+            <list>
+               <head>FIGURA TERTIA.</head>
+               <item>
+                  <hi>A. Shews the</hi> Marſupium <hi>or</hi> Pouch <hi>turned the inſide outwards where may be obſerved the Hair or Fur that covers it, and may help the better to keep the Young Ones warm.</hi>
+               </item>
+               <item>BB. <hi>The two hinder</hi> Legs <hi>cut off.</hi>
+               </item>
+               <item>C. <hi>The</hi> Foramen <hi>of the</hi> Anus, <hi>which is alſo the common outward Vent or</hi> Exit <hi>to the</hi> Rectum, <hi>the</hi> Blad<g ref="char:EOLhyphen"/>der <hi>of <g ref="char:V">Ʋ</g>rine, and the</hi> Uteri <hi>too.</hi>
+               </item>
+               <item>D. <hi>The beginning of the</hi> Tail.</item>
+            </list>
+            <list>
+               <head>FIGURA QUARTA</head>
+               <item>
+                  <hi>Gives a View of the</hi> Sceleton <hi>or</hi> Bones <hi>of this Animal.</hi>
+               </item>
+               <item>aa. <hi>The</hi> Roſtrum <hi>or Snout.</hi>
+               </item>
+               <item>bb. <hi>The</hi> Cranium <hi>or Skull that did contain the</hi> Brain.</item>
+               <item>ccc. <hi>A Bony</hi> Ridge <hi>or</hi> Protuberan<g ref="char:EOLhyphen"/>tia Oſſea longitudinalis, <hi>that did run the length of the</hi> Cranium, <hi>and over a part of the</hi> Roſtrum.</item>
+               <item>d. <hi>The lateral</hi> Ridge, <hi>which, like a Penthouſe, jutted over the hin<g ref="char:EOLhyphen"/>der part of the</hi> Cranium, Pro<g ref="char:EOLhyphen"/>tuberantia Oſſea Lateralis.</item>
+               <item>e.f. <hi>The</hi> Os Zygomaticum. (e) <hi>its</hi> Proceſs <hi>from the</hi> Os Temporum, <hi>and</hi> (r) <hi>that from the</hi> Maxilla Superior, <hi>or</hi> Upper Jaw.</item>
+               <item>g. <hi>A</hi> Foramen <hi>or Hole in the inward</hi> Canthus <hi>of the</hi> Orbit <hi>of the Eye that leads into the Noſtrils, and by a</hi> Duct <hi>conveys the</hi> Tears <hi>or Moiſture of the</hi> Eyes <hi>into them.</hi>
+               </item>
+               <item>h. <hi>A</hi> Foramen <hi>or Hole in the upper Jaw for a Paſſage to the Veſſels.</hi>
+               </item>
+               <item>i. <hi>A Protuberance of the</hi> Os Frontis.</item>
+               <item>k. <hi>A</hi> Suture <hi>of the</hi> Os Narium.</item>
+               <item>ll. <hi>The Lower</hi> mandible <hi>or Jaw<g ref="char:EOLhyphen"/>bone.</hi> Maxilla inferior.</item>
+               <item>m. <hi>The Superior Proceſs of the un<g ref="char:EOLhyphen"/>der Jaw.</hi>
+               </item>
+               <item>n. <hi>The inferior Proceſs of the under Jaw.</hi>
+               </item>
+               <item>o. <hi>The</hi> Clavicula <hi>of one Side.</hi>
+               </item>
+               <item>p. <hi>The</hi> Cartilago Enſiformis <hi>of the firſt Bone of the</hi> Sternum.</item>
+               <item>q. <hi>The</hi> Scapula <hi>or</hi> Shoulder-Blade <hi>Bone.</hi>
+               </item>
+               <pb n="58" facs="tcp:64883:33"/>
+               <item>r. <hi>The Spine of the</hi> Scapula.</item>
+               <item>SSSS. <hi>The</hi> Thigh-Bones <hi>of all the Feet.</hi>
+               </item>
+               <item>TTTT. <hi>The</hi> Tibia, <hi>or</hi> Focile majus <hi>of all the Feet.</hi>
+               </item>
+               <item>uu. <hi>Part of the</hi> Tibia <hi>in the Fore-Legs, extended beyond the Arti<g ref="char:EOLhyphen"/>culation.</hi>
+               </item>
+               <item>ww.ww. <hi>The</hi> Fibula <hi>or</hi> Focile mi<g ref="char:EOLhyphen"/>nus <hi>in all the Legs.</hi>
+               </item>
+               <item>xxxx. <hi>The Bones of the</hi> Tarſus.</item>
+               <item>yy.yy. <hi>The Bones of the</hi> Metatarſus.</item>
+               <item>zzzz. <hi>The</hi> Toes.</item>
+               <item>
+                  <hi>aa The</hi> Thumbs <hi>in the hinder Feet.</hi>
+               </item>
+               <item>No. 1. <hi>The firſt</hi> Vertebra <hi>of the</hi> Neck <hi>called the</hi> Atlas.</item>
+               <item>2, 3, 4, 5, 6, 7. <hi>The ſecond, third, fourth, fifth fixth, and ſeventh</hi> Vertebra <hi>of the</hi> Neck.</item>
+               <item>8. <hi>The firſt</hi> Vertebra <hi>of the</hi> Thorax.</item>
+               <item>9. <hi>The firſt</hi> Vertebra <hi>of the</hi> Loins.</item>
+               <item>10. <hi>The firſt</hi> Vertebra <hi>of the</hi> Os Sacrum.</item>
+               <item>11. <hi>The firſt</hi> Vertebra <hi>of the</hi> Os Coxygis, <hi>or Tail.</hi>
+               </item>
+               <item>12.12.12.12. <hi>The Spines or Hooks on the inſide of the Tail.</hi>
+               </item>
+               <item>13, 14. <hi>The</hi> Os Innominatum, <hi>where</hi> (13.) <hi>is the</hi> Os Ilium, (14) <hi>the</hi> Os Iſchii <hi>or</hi> Coxendicis.</item>
+               <item>15.15. <hi>The</hi> Oſſa Marſupialia, <hi>ſeu</hi> Janitores Marſupii.</item>
+               <item>****. <hi>The Ribs, thirteen in all.</hi>
+               </item>
+               <item>
+                  <g ref="char:circdot">⊙</g>. <hi>The</hi> Cartilago Scutiformis.</item>
+            </list>
+            <list>
+               <head>FIGURA QUINTA</head>
+               <item>
+                  <hi>Repreſents the Situation of the</hi> Oſſa Marſupialia, <hi>&amp;c.</hi>
+               </item>
+               <item>aa. <hi>The</hi> Oſſa Pubis.</item>
+               <item>b. <hi>The Coalition or the joining of the</hi> Oſſa Pubis.</item>
+               <item>cc. <hi>The two</hi> Oſſa Marſupialia, <hi>or</hi> Ja<g ref="char:EOLhyphen"/>nitores Marſupii.</item>
+               <item>d,e. <hi>The Baſis of the</hi> Oſſa Marſupi<g ref="char:EOLhyphen"/>alia, <hi>where joined to the</hi> Oſſa Pubis, (d) <hi>the inward Head of the</hi> Baſis, (e) <hi>the outward.</hi>
+               </item>
+               <item>f.f. <hi>The</hi> Acetabulum <hi>or</hi> Socket <hi>for receiving the Head of the Thigh Bone.</hi>
+               </item>
+               <item>g.g. <hi>The</hi> Os Ileum.</item>
+               <item>hh. <hi>The</hi> Vertebrae <hi>of the</hi> Os ſacrum.</item>
+               <item>II. <hi>The</hi> Os Iſchii <hi>or</hi> Coxendicis.</item>
+            </list>
+            <list>
+               <head>FIGURA SEXTA</head>
+               <item>
+                  <hi>Exhibits the Figure of the fore ſide of the</hi> Thigh <hi>Bone of the fore Leg.</hi>
+               </item>
+               <item>a. <hi>The Head of the</hi> Thigh Bone, <hi>where 'tis faſtened to the</hi> Scapula.</item>
+               <item>b. <hi>A large rough</hi> Spine, <hi>which runs above half the Length of this</hi> Thigh Bone.</item>
+               <item>c. <hi>A Protuberance of this Bone on the out ſide.</hi>
+               </item>
+               <item>d. <hi>A large</hi> Foramen <hi>or hollow Paſ<g ref="char:EOLhyphen"/>ſage.</hi>
+               </item>
+               <item>e. <hi>A</hi> Sinus <hi>for receiving the</hi> Head <hi>of the</hi> Tibia.</item>
+               <item>f,g. <hi>The Baſis or lower Extream of the Thigh Bone.</hi>
+               </item>
+            </list>
+            <list>
+               <head>TABULA SECUNDA. FIGURA PRIMA</head>
+               <item>
+                  <hi>Repreſents the</hi> Stomach <hi>and</hi> Guts, <hi>and the ſeveral</hi> Coylings <hi>they make.</hi>
+               </item>
+               <item>A. <hi>The</hi> Gula <hi>or</hi> Gullet.</item>
+               <item>B. <hi>The</hi> Stomach.</item>
+               <pb n="59" facs="tcp:64883:33"/>
+               <item>c. <hi>A Perforation of the</hi> Stomach, <hi>cauſed by an <g ref="char:V">Ʋ</g>lcer there.</hi>
+               </item>
+               <item>dd. <hi>The two pouching out of the</hi> Sto<g ref="char:EOLhyphen"/>mach <hi>at the two Ends.</hi>
+               </item>
+               <item>e. <hi>The</hi> Pylorus.</item>
+               <item>f. <hi>The beginning of the</hi> Duodenum.</item>
+               <item>g,h,i,k,l,m,n,o,p,q. <hi>Repreſents the ſmall</hi> Guts, <hi>and the Coyles and Convolutions they do make. Some of the Coyles lie hid, and out of ſight; But the order how they follow one another, is ſignified by the Order of the Letters of the Alphabet: ſo that</hi> (g) <hi>follows</hi> (f), <hi>and</hi> (g) <hi>is ſucceeded by</hi> (i) <hi>and</hi> (i) <hi>by</hi> (k), <hi>and ſo on to</hi> (q) <hi>where the</hi> Ilion <hi>is diſcharged and emptied into the</hi> Caecum <hi>or, if that is full, into the</hi> Co<g ref="char:EOLhyphen"/>lon <hi>at the firſt Letter S.</hi>
+               </item>
+               <item>RR. <hi>The</hi> Caecum.</item>
+               <item>SSS. <hi>The</hi> Colon.</item>
+               <item>T. <hi>The</hi> Rectum.</item>
+               <item>V. <hi>The firſt</hi> Meſenterie, <hi>or</hi> Meſen<g ref="char:EOLhyphen"/>terium minorum Inteſtinorum</item>
+               <item>W. <hi>The ſecond</hi> Meſenterie, <hi>or</hi> Meſen<g ref="char:EOLhyphen"/>terium majorum Inteſtinorum.</item>
+            </list>
+            <list>
+               <head>FIGURA SECUNDA</head>
+               <item>
+                  <hi>Exhibits the</hi> Urinary <hi>and the</hi> U terine <hi>Parts.</hi>
+               </item>
+               <item>AA. <hi>The two</hi> Kidneys.</item>
+               <item>bb. <hi>The</hi> Emulgent Veins.</item>
+               <item>cc. <hi>The</hi> Emulgent Arteries.</item>
+               <item>dd. <hi>The</hi> Glandulae Renales.</item>
+               <item>ee. <hi>The two</hi> Ureters.</item>
+               <item>f. <hi>The Inſertion of the left</hi> Ureter, <hi>into the Neck of the</hi> Bladder.</item>
+               <item>G. <hi>The</hi> Bladder <hi>of</hi> Urine <hi>turn'd aſide</hi>
+               </item>
+               <item>h. <hi>The <g ref="char:V">Ʋ</g>rethra.</hi>
+               </item>
+               <item>ii. <hi>The two</hi> Vaginae Uteri.</item>
+               <item>K. <hi>The</hi> common Paſſage <hi>from the</hi> Urethra, <hi>and the two</hi> Vaginae.</item>
+               <item>l. <hi>The</hi> Arteria Aorta, <hi>or</hi> Great Ar<g ref="char:EOLhyphen"/>terie.</item>
+               <item>m. <hi>The</hi> Vena Cava.</item>
+               <item>nn.n. <hi>The</hi> Spermatick Arteries.</item>
+               <item>oo.oo. <hi>The</hi> Spermatick Veins.</item>
+               <item>p.p.p. <hi>The</hi> Hypogaſtick Arteries <hi>and</hi> Veins.</item>
+               <item>rrr. <hi>The</hi> Alae Uteri, <hi>ſeu potiùs</hi> Cornuum.</item>
+               <item>ss. <hi>The</hi> Ovaria.</item>
+               <item>tt. <hi>The</hi> Tubae Fallopianae.</item>
+               <item>uu. <hi>The</hi> Cornu Uteri <hi>of the Left Side opened.</hi>
+               </item>
+               <item>w. <hi>The</hi> Cornu Uteri <hi>of the Right-Side not opened.</hi>
+               </item>
+               <item>xx. <hi>The two</hi> Uteri <hi>opened.</hi>
+               </item>
+               <item>y. <hi>The</hi> Diaphragm <hi>that divides the two</hi> Uteri.</item>
+               <item>zz. <hi>The imperfect</hi> Diaphragma, <hi>which partly divides each</hi> Ute<g ref="char:EOLhyphen"/>rus, <hi>and lies over the Paſſage of that Part of the</hi> Uterus, <hi>which is doubled and tends to the</hi> Va<g ref="char:EOLhyphen"/>ginae.</item>
+            </list>
+            <list>
+               <head>FIGURA TERTIA</head>
+               <item>
+                  <hi>More particularly ſhows the</hi> Ute<g ref="char:EOLhyphen"/>rine <hi>Parts.</hi>
+               </item>
+               <item>AA. <hi>The two</hi> Ovaria.</item>
+               <item>bb. <hi>The</hi> Fimbria Foliacea.</item>
+               <item>cc. <hi>The</hi> Tubae Fallopianae.</item>
+               <item>dd. <hi>The two</hi> Cornua Uteri.</item>
+               <item>EE. <hi>The two</hi> Uteri <hi>reduplicated</hi>
+               </item>
+               <pb n="60" facs="tcp:64883:34"/>
+               <item>f. <hi>A Slit in the Neck of the Left</hi> Uterus <hi>to ſhew its Paſſage into the</hi> Vagina <hi>on that Side.</hi>
+               </item>
+               <item>g. <hi>The Left</hi> Vagina <hi>opened.</hi>
+               </item>
+               <item>h. <hi>The</hi> Oſtium <hi>or Mouth of the Right</hi> Vagina.</item>
+               <item>i. <hi>The common Paſſage from the</hi> Ure<g ref="char:EOLhyphen"/>thra <hi>and</hi> Vaginae.</item>
+               <item>K. <hi>The</hi> Urethra.</item>
+               <item>ll. <hi>The</hi> Bladder <hi>of</hi> Urine <hi>cut off.</hi>
+               </item>
+            </list>
+            <list>
+               <head>EIGURA QUARTA</head>
+               <item>
+                  <hi>Repreſents the</hi> Hairy Tophus, <hi>or Ball of Hair that was taken out of the</hi> Stomach.</item>
+            </list>
+            <list>
+               <head>FIGURA QUINTA</head>
+               <item>
+                  <hi>Repreſents the</hi> Liver.</item>
+               <item>A. <hi>The</hi> Vena Cava.</item>
+               <item>BBB. <hi>The three</hi> Lobes <hi>of the</hi> Liver.</item>
+               <item>C. <hi>The</hi> Bladder <hi>of</hi> Gall.</item>
+               <item>ddd. <hi>The Fiſſures in the Body of the</hi> Liver.</item>
+               <item>eee. <hi>The Inciſures at the Edges of the</hi> Liver.</item>
+            </list>
+            <list>
+               <head>FIGURA SEXTA.</head>
+               <item>A. <hi>The</hi> Spine <hi>of the ſecond</hi> Vertebra <hi>of the</hi> Neck.</item>
+               <item>b. <hi>Repreſents its Thickneſs.</hi>
+               </item>
+               <item>c. <hi>A large</hi> Sinus <hi>for the receiving the firſt</hi> Vertebra.</item>
+               <item>d. <hi>The</hi> Dens <hi>or</hi> Tooth <hi>of this</hi> Vertebra.</item>
+               <item>e. <hi>The</hi> Proceſſus obliquus ſuperior <hi>of one Side.</hi>
+               </item>
+               <item>f. <hi>The</hi> Proceſſus obliquus inferior <hi>of the ſame Side.</hi>
+               </item>
+            </list>
+            <list>
+               <head>FIGURA SEPTIMA.</head>
+               <item>A. <hi>Repreſents the</hi> Spine <hi>of the third</hi> Vertebra <hi>of the</hi> Neck, <hi>where is ſhewn its natural thickneſs.</hi>
+               </item>
+               <item>b. <hi>The Hole through which the</hi> Medulla Spinalis <hi>paſſes.</hi>
+               </item>
+               <item>cc. <hi>Two ſmall</hi> Foramina <hi>for the Paſ<g ref="char:EOLhyphen"/>ſage of Veſſels.</hi>
+               </item>
+               <item>d. <hi>Repreſents the Cleft at the top of the</hi> Spine.</item>
+               <item>ee. <hi>The two</hi> Proceſſus obliqui Supe<g ref="char:EOLhyphen"/>riores <hi>before.</hi>
+               </item>
+               <item>ff. <hi>The two</hi> Proceſſus obliqui Inferi<g ref="char:EOLhyphen"/>ores <hi>before.</hi>
+               </item>
+            </list>
+            <list>
+               <head>FIGURA OCTAVA</head>
+               <item>
+                  <hi>Repreſents the firſt</hi> Vertebra <hi>of the</hi> Thorax.</item>
+               <item>A. <hi>The</hi> Spine, <hi>which is long and acute.</hi>
+               </item>
+               <item>bb. <hi>The</hi> Oblique Proceſſes <hi>before.</hi>
+               </item>
+               <item>cc. <hi>The</hi> Oblique Proceſſes <hi>behind.</hi>
+               </item>
+               <item>dd. <hi>The</hi> Tranſverſe Proceſſes.</item>
+               <item>ee. <hi>Where the</hi> Ribs <hi>are faſtened.</hi>
+               </item>
+               <item>f. <hi>The Hollow where the</hi> Medulla Spi<g ref="char:EOLhyphen"/>nalis <hi>paſſes.</hi>
+               </item>
+            </list>
+            <list>
+               <head>FIGURA NONA</head>
+               <item>
+                  <hi>Repreſents the fourth</hi> Vertebra <hi>of the</hi> Loins.</item>
+               <item>aa. <hi>The two upper</hi> Oblique Proceſſes <hi>behind.</hi>
+               </item>
+               <item>b. <hi>The</hi> Spine.</item>
+               <item>cc. <hi>The two under</hi> Oblique Proceſſes <hi>behind.</hi>
+               </item>
+            </list>
+            <list>
+               <head>FIGURA DECIMA</head>
+               <item>
+                  <hi>Repreſents the ſecond and third</hi> Verte<g ref="char:EOLhyphen"/>bra <hi>of the</hi> Tail.</item>
+               <item>aa. <hi>Two</hi> Vertebrae <hi>of the</hi> Tail.</item>
+               <item>bbb. <hi>The</hi> Spines <hi>or</hi> Hooks <hi>on the in<g ref="char:EOLhyphen"/>ſide, by means of which, it can bet<g ref="char:EOLhyphen"/>ter hang by its</hi> Tail.</item>
+               <item>cc. <hi>A Hollow or</hi> Foramen <hi>in the mid<g ref="char:EOLhyphen"/>dle of theſe</hi> Spines, <hi>through which,</hi> Blood-Veſſels <hi>paſſes.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAg.</hi> 1. <hi>l.</hi> 5. <hi>r.</hi> at Chirurgions. <hi>p.</hi> 2. <hi>l.</hi> 21. <hi>r.</hi> Simi-vulpa. <hi>p.</hi> 3. l. 26. <hi>r.</hi> Epithet. <hi>p.</hi> 4. <hi>l.</hi> 1. <hi>r.</hi> determinec. <hi>l.</hi> 14. <hi>r.</hi> addidi. <hi>p.</hi> 5. <hi>l.</hi> 7. <hi>r.</hi> Crumenam. <hi>p.</hi> 6. <hi>l.</hi> 8. <hi>r.</hi> her. <hi>p.</hi> 3. <hi>l.</hi> 6. <hi>r.</hi> Hexagons. <hi>p.</hi> 9. <hi>l.</hi> 23. <hi>r.</hi> ſunk. <hi>p.</hi> 10. <hi>l.</hi> 32. <hi>r.</hi> invicem. <hi>p.</hi> 12. <hi>l.</hi> 5. <hi>r.</hi> proficiſcatur. <hi>l.</hi> 10. <hi>r.</hi> quaeritare didicerint. <hi>l.</hi> 18. <hi>r.</hi> ſtrepitum. <hi>l. penult.</hi> adapting. <hi>p.</hi> 21. <hi>l.</hi> 12. <hi>r</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>p.</hi> 29. <hi>l.</hi> 29. Columbis. <hi>p.</hi> 36. <hi>l.</hi> 25. <hi>r.</hi> Vetch. <hi>l.</hi> 26. <hi>r.</hi> Vein. <hi>p.</hi> 42. <hi>l.</hi> 3. <hi>r.</hi> felis <hi>p.</hi> 43. <hi>l.</hi> 10. r. Extream. <hi>l.</hi> 19. <hi>r.</hi> Suture. <hi>p.</hi> 44. <hi>l.</hi> 5. <hi>r.</hi> Lambdoidal. <hi>p.</hi> 45. <hi>l.</hi> 11. <hi>r.</hi> Seive. <hi>p.</hi> 47. <hi>l.</hi> 9. <hi>r.</hi> felis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
